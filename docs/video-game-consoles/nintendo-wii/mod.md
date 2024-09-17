@@ -6,6 +6,10 @@ This section will guide you step by step through the process of turning your Nin
 
 However, if you don’t have a solid grasp of basic tech concepts, modding your Wii may not be the best option. If something goes wrong or needs attention, troubleshooting without a basic understanding could be frustrating. Having some foundational knowledge will not only make the process smoother but also help you effectively search for solutions when issues arise. Understanding the basics will set you up for success and ensure you enjoy the experience.
 
+{% hint style="info" %}
+This guide is written in a step-by-step format, so make sure to follow each step carefully and in order.
+{% endhint %}
+
 ## Goals
 
 * Play Nintendo Wii and Nintendo GameCube backups from an external HDD and/or SD Card.
@@ -74,6 +78,70 @@ You will need:
 ### NUS Downloader
 
 1. Download [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
-2. Launch `NUS Downloader.exe`
-3. Database > IOS > IOS38 > v4123
+2. Launch 'NUS Downloader.exe'.
+
+#### IOS Packages
+
+For each IOS package in the table below:
+
+| Location       | IOS   | Version |
+| -------------- | ----- | ------- |
+| Database > IOS | IOS38 | v4123   |
+| Database > IOS | IOS56 | v5661   |
+| Database > IOS | IOS57 | v5918   |
+| Database > IOS | IOS58 | v6175   |
+
+1. Make sure 'Pack WAD' is ticked.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+2. Click 'Start NUS Download'.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+3. Once the download has complete, click the bin icon.
+
+#### WADs
+
+1. Close the NUS Downloader program, we're done with this.
+2. In the NUS Downloader directory, open the 'titles' folder.
+3. Copy all files ending in .wad to the root of your SD Card.
+
+## Installing to Wii
+
+### LetterBomb
+
+1. Insert the SD Card into the Wii.
+2. Turn on your console.
+3. Click Wii Message Board.
+4. Open the calendar view and click the day which shows a yellow letter.
+5. Hover over the red letter and hit Ⓐ to start the process.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="124"><figcaption></figcaption></figure>
+
+</div>
+
+### HackMii Installer
+
+1. Hit Ⓐ on your controller.
+2. Select 'Install The Homebrew Channel' and hit Ⓐ on your controller.
+3. Select 'Yes, continue' and hit Ⓐ on your controller.
+4. Wait for the installation to complete.
+5. Once the installation is complete, select 'Continue' and hit Ⓐ on your controller.
+6. Select 'BootMii...'
+7. If possible, select 'Install BootMii as boot2' and hit Ⓐ on your controller. Don't worry if you can't, move on to the next step. For any prompts, select 'Yes, continue' and hit Ⓐ on your controller.
+8. Select 'Install BootMii as IOS' and hit Ⓐ on your controller. For any prompts, select 'Yes, continue' and hit Ⓐ on your controller.
+9. Select 'Exit' and hit Ⓐ on your controller.
+
+### Priiloader
 
