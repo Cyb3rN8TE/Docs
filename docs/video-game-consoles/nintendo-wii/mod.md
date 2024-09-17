@@ -6,13 +6,28 @@ This section will guide you step by step through the process of turning your Nin
 
 However, if you don’t have a solid grasp of basic tech concepts, modding your Wii may not be the best option. If something goes wrong or needs attention, troubleshooting without a basic understanding could be frustrating. Having some foundational knowledge will not only make the process smoother but also help you effectively search for solutions when issues arise. Understanding the basics will set you up for success and ensure you enjoy the experience.
 
+## Goals
+
+* Play Nintendo Wii and Nintendo GameCube backups from an external HDD and/or SD Card.
+* Play and emulate games from over 50 retro consoles, including handhelds and arcade machines, directly from an external HDD or SD card.
+
+{% hint style="info" %}
+Backups refer to file-level copies of games that you have lawfully purchased and already own, either digitally or on physical media such as a CD, DVD, floppy disk, cartridge, etc.
+{% endhint %}
+
+{% hint style="warning" %}
+It is both illegal and unethical to pirate or obtain games that you have not purchased or do not own a legitimate physical or digital copy of. This guide is intended solely to help you modify your console so you can back up and play games you already own. I do not endorse or support any form of software piracy.
+
+By following this guide, you assume full responsibility for your actions. I will not be held liable for any legal issues or consequences that may arise should you choose to engage in piracy or any other illegal activity. Always respect copyright laws and the intellectual property of game developers.
+{% endhint %}
+
 ## Equipment
 
 You will need:
 
-* Nintendo Wii
-* 2TB External Hard Drive (preferably with external power)
-* SanDisk Ultra 256GB SDHC SDXC UHS-I Memory Card
+* Nintendo Wii.
+* 2TB External Hard Drive (preferably with external power).
+* SanDisk Ultra 256GB SDHC SDXC UHS-I Memory Card.
 
 ## Prerequisites
 
@@ -23,3 +38,34 @@ You will need:
 5. Make note of your console's MAC Address.
 
 ## SD Card Preparation
+
+### Format SD Card
+
+1. Format the SD Card to Fat32 file system.
+
+### LetterBomb
+
+1. Visit [HackMii](https://please.hackmii.com/) website.
+2. Select the System Menu Version that matches your console.
+3. Enter your consoles MAC Address.
+4. Tick 'Bundle the HackMii Installer for me!'.
+5. Click 'Cut the red wire' or 'Cut the blue wire' (they both just download the files).
+6. Extract ZIP to folder.
+7. Copy the 'private' folder and 'boot.elf' to the root of  your SD Card.
+
+### cIOS
+
+1. Download [cIOS](https://wii.hacks.guide/assets/files/d2x-cios-installer.zip) installer and [NUS](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip) downloader.
+2. Extract ZIP to folder.
+3. Copy the 'apps' folder to the root of your SD Card.
+
+### Homebrew Browser
+
+1. Download [Homebrew Browser](https://hbb1.oscwii.org/api/contents/homebrew\_browser/homebrew\_browser.zip).
+2. Extract ZIP to folder.
+
+### Priiloader
+
+1. Download [Priiloader](https://oscwii.org/library/app/priiloader) installer.
+2. Extract ZIP to folder.
+
