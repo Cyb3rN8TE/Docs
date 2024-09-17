@@ -149,13 +149,84 @@ For each IOS package in the table below:
 2. Select 'Launch BootMii' and press Ⓐ on your controller.
 3. From the BootMii main menu, press the power button on your console several times until the gears tile is selected, then press the reset button on your console.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 4. Press the power button on your console several times until the backup NAND option is selected, then press the reset button on your console.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Wait for the backup process to complete. This process makes a NAND dump to your SD card which can be used to restore the console to stock should your console become bricked or you decide that you prefer a stock console.
 6. Once the process is complete you should see the following message, press the reset button on your console to continue.
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+7. From the BootMii menu, press the power button on your console several times until the back arrow tile is selected, then press the reset button on your console.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+8. From the BootMii menu, press the power button on your console several times until the homebrew channel tile is selected, then press the reset button on your console.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### cIOS Installer
+
+1. From the homebrew channel menu, hover over 'd2x cIOS Installer' and press Ⓐ on your controller.
+2. Hover over 'Load' and press Ⓐ on your controller.
+
+#### IOS Install No. 1
+
+1. Using your controller, match the following settings.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+4. Once the settings match, press Ⓐ on your controller.
+5. On the slots map page press Ⓐ again on your controller.
+6. Wait patiently whilst the IOS is installed. Once completed and the slots map page is showing, press Ⓐ on your controller to continue.
+
+#### IOS Install No. 2
+
+1. Using your controller, match the following settings.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+2. Once the settings match, press Ⓐ on your controller.
+3. On the slots map page press Ⓐ again on your controller.
+4. Wait patiently whilst the IOS is installed. Once completed and the slots map page is showing, press Ⓐ on your controller to continue.
+
+#### IOS Install No. 3
+
+1. Using your controller, match the following settings.
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+2. Once the settings match, press Ⓐ on your controller.
+3. On the slots map page press Ⓐ again on your controller.
+4. Wait patiently whilst the IOS is installed. Once completed and the slots map page is showing, press Ⓐ on your controller to continue.
+
+#### IOS Install No. 4
+
+1. Using your controller, match the following settings.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+2. Once the settings match, press Ⓐ on your controller.
+3. On the slots map page press Ⓐ again on your controller.
+4. Wait patiently whilst the IOS is installed. Once completed and the slots map page is showing, press Ⓐ on your controller to continue.
+5. We're now done with the IOS installations, press the Ⓑ button on your controller to exit.
+6. Turn off your console and remove the SD Card.
+
+## Post-Installation
+
+### BootMii Autostart
+
+We need to prevent the Wii from launching BootMii whenever the console turns on:
+
+1. Insert your SD Card into your computer.
+2. Rename the 'bootmii' folder to 'bootmii\_x'
+
+### Backup NAND Dump
+
+As discussed earlier in the guide, we created a NAND dump of the console, which will allow us to recover from a bricked system or restore the console to its original state. This process generated two files: 'keys.bin' and 'nand.bin.' Copy these files from the root of your SD card and store them in a secure location. I recommend creating a folder named 'Wii Backup' on your Google Drive and uploading the files there for safekeeping.
+
+
+
