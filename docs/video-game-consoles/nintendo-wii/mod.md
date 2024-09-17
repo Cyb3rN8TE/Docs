@@ -92,21 +92,7 @@ For each IOS package in the table below:
 | Database > IOS | IOS58 | v6175   |
 
 1. Make sure 'Pack WAD' is ticked.
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 2. Click 'Start NUS Download'.
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 3. Once the download has complete, click the bin icon.
 
 #### WADs
@@ -123,25 +109,53 @@ For each IOS package in the table below:
 2. Turn on your console.
 3. Click Wii Message Board.
 4. Open the calendar view and click the day which shows a yellow letter.
-5. Hover over the red letter and hit Ⓐ to start the process.
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="124"><figcaption></figcaption></figure>
-
-</div>
+5. Hover over the red letter and press Ⓐ to start the process.
 
 ### HackMii Installer
 
-1. Hit Ⓐ on your controller.
-2. Select 'Install The Homebrew Channel' and hit Ⓐ on your controller.
-3. Select 'Yes, continue' and hit Ⓐ on your controller.
+1. Press Ⓐ on your controller.
+2. Select 'Install The Homebrew Channel' and press Ⓐ on your controller.
+3. Select 'Yes, continue' and press Ⓐ on your controller.
 4. Wait for the installation to complete.
-5. Once the installation is complete, select 'Continue' and hit Ⓐ on your controller.
+5. Once the installation is complete, select 'Continue' and press Ⓐ on your controller.
 6. Select 'BootMii...'
-7. If possible, select 'Install BootMii as boot2' and hit Ⓐ on your controller. Don't worry if you can't, move on to the next step. For any prompts, select 'Yes, continue' and hit Ⓐ on your controller.
-8. Select 'Install BootMii as IOS' and hit Ⓐ on your controller. For any prompts, select 'Yes, continue' and hit Ⓐ on your controller.
-9. Select 'Exit' and hit Ⓐ on your controller.
+7. If possible, select 'Install BootMii as boot2' and press Ⓐ on your controller. Don't worry if you can't, move on to the next step. For any prompts, select 'Yes, continue' and press Ⓐ on your controller.
+8. Select 'Install BootMii as IOS' and press Ⓐ on your controller. For any prompts, select 'Yes, continue' and press Ⓐ on your controller.
+9. Select 'Exit' and press Ⓐ on your controller.
 
 ### Priiloader
 
+1. Hover over 'Priiloader Installer' and press Ⓐ on your controller.
+2. Hover over 'Load' and press Ⓐ on your controller.
+3. Press Ⓐ  or + on your controller and wait for the install to complete, then press Ⓐ  to continue.
+4. Turn off your console.
+5. Whilst holding down the 'reset' button on the front of your Wii, press the power button once and continue holding the 'reset' button until you see Priiloader main menu.
+6. Select 'System Menu Hacks' and press Ⓐ on your controller.
+7. Enable the following features by selecting each and pressing Ⓐ on your controller to toggle enabled/disabled.
+
+| Feature                       | Status  |
+| ----------------------------- | ------- |
+| Block Disc Updates            | Enabled |
+| Block Online Updates          | Enabled |
+| Region Free EVERYTHING        | Enabled |
+| Auto-Press A at Health Screen | Enabled |
+
+8. Scroll down and select 'Save Settings', press Ⓐ on your controller.
+9. On the Priiloader main menu, select 'Homebrew Channel' and press Ⓐ on your controller.
+
+### BootMii
+
+1. From the Homebrew Channel menu, press the home button on your controller.
+2. Select 'Launch BootMii' and press Ⓐ on your controller.
+3. From the BootMii main menu, press the power button on your console several times until the gears tile is selected, then press the reset button on your console.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+4. Press the power button on your console several times until the backup NAND option is selected, then press the reset button on your console.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+5. Wait for the backup process to complete. This process makes a NAND dump to your SD card which can be used to restore the console to stock should your console become bricked or you decide that you prefer a stock console.
+6. Once the process is complete you should see the following message, press the reset button on your console to continue.
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
