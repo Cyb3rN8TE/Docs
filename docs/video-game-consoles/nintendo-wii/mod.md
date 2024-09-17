@@ -55,7 +55,7 @@ You will need:
 
 ### cIOS
 
-1. Download [cIOS](https://wii.hacks.guide/assets/files/d2x-cios-installer.zip) installer and [NUS](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip) downloader.
+1. Download [cIOS installer](https://wii.hacks.guide/assets/files/d2x-cios-installer.zip).
 2. Extract ZIP to folder.
 3. Copy the 'apps' folder to the root of your SD Card.
 
@@ -63,9 +63,17 @@ You will need:
 
 1. Download [Homebrew Browser](https://hbb1.oscwii.org/api/contents/homebrew\_browser/homebrew\_browser.zip).
 2. Extract ZIP to folder.
+3. Copy the 'homebrew\_browser' folder (containing .dol file) to the 'apps' folder on your SD Card.
 
 ### Priiloader
 
 1. Download [Priiloader](https://oscwii.org/library/app/priiloader) installer.
 2. Extract ZIP to folder.
+3. Copy the 'priiloader' folder (containing .dol file) to the 'apps' folder on your SD Card.
+
+### NUS Downloader
+
+1. Download [NUS Downloader](https://github.com/WiiDatabase/nusdownloader/releases/latest/download/NUSD-Mod-NUS-Fix.zip).
+2. Launch `NUS Downloader.exe`
+3. Database > IOS > IOS38 > v4123
 
