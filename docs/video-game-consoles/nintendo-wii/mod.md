@@ -41,11 +41,15 @@ You will need:
 4. Make note of your Wii's version. It will be 4.3U, 4.3E, 4.3J or 4.3K depending on your consoles region.
 5. Make note of your console's MAC Address.
 
+## External HDD Preparation
+
+Format the External HDD to Fat32 file system.
+
 ## SD Card Preparation
 
 ### Format SD Card
 
-1. Format the SD Card to Fat32 file system.
+Format the SD Card to Fat32 file system.
 
 ### LetterBomb
 
@@ -227,6 +231,10 @@ We need to prevent the Wii from launching BootMii whenever the console turns on:
 ### Backup NAND Dump
 
 As discussed earlier in the guide, we created a NAND dump of the console, which will allow us to recover from a bricked system or restore the console to its original state. This process generated two files: 'keys.bin' and 'nand.bin.' Copy these files from the root of your SD card and store them in a secure location. I recommend creating a folder named 'Wii Backup' on your Google Drive and uploading the files there for safekeeping.
+
+## WiiFlow
+
+### Preparation
 
 
 
