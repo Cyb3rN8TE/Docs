@@ -341,6 +341,43 @@ To install the WiiFlow forwarder, we need to use Yet Another Wad Manager Mod (YA
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 9. Wait for the installation process to complete and then press Ⓐ on your controller to continue.
+10. Press the 🏠︎ button on your controller to restart the console.
+
+### WiiFlow Settings
+
+Launch the WiiFlow app using the WiiFlow channel on your consoles system menu.
+
+#### Set Game Partitions
+
+1. Press the 🏠︎ button on your controller.
+2. Hover over **Settings** and press Ⓐ on your controller.
+3. Locate **Game Partitions** hover over **Set** and press the Ⓐ button on your controller.
+4. Set **Wii Partition** and **GameCube Partition** to **USB2**.
+
+#### Apply Rhapsodii Shima WiiFlow Theme
+
+1. Press the 🏠︎ button on your controller.
+2. Hover over **Settings** and press Ⓐ on your controller.
+3. Locate **Theme** and change this to **Rhapsodii Shima**.
+4. Press **Back** and wait for WiiFlow to reload.
+
+#### Rhapsodii Shima WiiFlow Theme Configuration
+
+1. Press the 🏠︎ button on your controller.
+2. Hover over **Settings** and press Ⓐ on your controller.
+3. Locate **Sourceflow settings**, hover over **Set** and press Ⓐ on your controller.
+4. Enable Sourceflow by changing toggle to **On**.
+5. Press **Back**.
+6. To exit back to the game library press Ⓑ on your controller.
+
+### WiiFlow AutoBoot
+
+WiiFlow Auto Boot is a feature that allows the WiiFlow application to start automatically when the Wii console is turned on.
+
+1. Power off the console.
+2.
+
+
 
 ## Adding Games
 
