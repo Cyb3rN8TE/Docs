@@ -375,11 +375,21 @@ Launch the WiiFlow app using the WiiFlow channel on your consoles system menu.
 WiiFlow Auto Boot is a feature that allows the WiiFlow application to start automatically when the Wii console is turned on.
 
 1. Power off the console.
-2.
-
-
+2. Whilst holding down the **reset** button on the front of your Wii, press the **power** button once and continue holding the **reset** button until you see Priiloader main menu.
+3. Select **Settings** and press Ⓐ on your controller.
+4. Select **Autoboot** and change this to **Installed File**.
+5. Select **Save Settings** and press Ⓐ on your controller.
+6. Select **Exit**.
+7. Select **Load/Install File** and press Ⓐ on your controller.
+8. Select **WiiFlow WFL** and press Ⓐ on your controller.
+9. Wait for the installation to complete and then press Ⓑ on your controller.
+10. Select **Exit**.
+11. Select **Installed File**.
+12. Reboot the console to confirm that WiiFlow automatically starts.
 
 ## Adding Games
+
+Coming soon...
 
 
 
