@@ -236,5 +236,57 @@ As discussed earlier in the guide, we created a NAND dump of the console, which 
 
 ### Preparation
 
+Now that we’re ready to dive into the fun part of modding, let’s begin by gathering everything needed to install WiiFlow on your console.
+
+Start by inserting your SD card into your computer. Once that's done, we’re ready to begin downloading the necessary packages and transferring the files onto the SD card.
+
+#### WiiFlow
+
+WiiFlow is an application used for loading backup games from a USB device or SD card. It presents your game library in a visually appealing format, making it super easy to browse and launch your games.
+
+1. Download [WiiFlow](https://github.com/Fledge68/WiiFlow\_Lite/releases/download/v.5.5.4\_1/wiiflow\_v5.5.4-1.zip).
+2. Extract ZIP to folder.
+3. \*\*\*\*\*\*\*\*\*Copy the 'apps' folder to the root of your SD Card.
+
+#### Some YAWMM Mod
+
+YAWMM is used to manage **WAD files**, which are packages containing data like channels, system menus, or games.
+
+1. Download Some [YAWMM Mod](https://github.com/FIX94/Some-YAWMM-Mod/releases/download/v1.0/some-yawmm-mod-v1.0.zip).
+2. Extract ZIP to folder.
+
+#### WiiFlow Forwarder
+
+A WiiFlow Forwarder is a custom channel installed on the Wii's system menu that acts as a shortcut to launch the WiiFlow application directly from the home screen. Instead of navigating through the Homebrew Channel to start WiiFlow, the forwarder allows you to access it quickly with just one click.
+
+1. Download [WiiFlow Forwarder](https://repo.mariocube.com/WADs/Forwarders/WiiFlow%20Forwarders/Wii/Blue%20Circles-FIX94v14b-DWFA.wad).
+
+#### WiiFlow Plugins Pack
+
+The WiiFlow Plugins Pack is a collection of plugins that expand the functionality of WiiFlow. These plugins allow WiiFlow to not only load Wii games, but also emulate and play games from various other systems such as NES, SNES, Game Boy, Sega Genesis, and more.
+
+1. Download [WiiFlow Plugins Pack](https://www.mediafire.com/file/w8smzw3iwm041cz/WiiFlow\_Plugins\_Pack\_2024.7z/file).
+2. Extract ZIP to folder.
+
+#### WiiFlow Emulator Database
+
+The WiiFlow Emulator Database is a collection of information that helps WiiFlow manage and organise emulated games from various consoles. This database is used in conjunction with WiiFlow’s plugins to properly categorise, display, and launch games from different systems, such as NES, SNES, Game Boy, Sega Genesis, and more.
+
+1. Download [WiiFlow Emulator Database](https://www.mediafire.com/file/4blrpsqqn5g0bdu/Wiiflow\_Database.7z/file), [WiiFlow Snapshots](https://www.mediafire.com/file/3k3geemnnx06049/Wiiflow\_Snapshots\_MOD.7z/file) and [WiiFlow CartDisk](https://www.mediafire.com/file/xegmyb7uxid4nki/Wiiflow\_CartDisk.7z/file).
+2. Extract each ZIP to a separate folder.
+
+#### Rhapsodii Shima WiiFlow Theme
+
+The Rhapsodii Shima theme is a custom visual theme designed for WiiFlow. It features unique graphics, backgrounds, and icon designs that enhance the visual appeal of WiiFlow, making your game library more engaging and visually appealing.
+
+1. Download [Rhapsodii Shima Theme](https://gbatemp.net/download/rhapsodii-shima.36278/version/40103/download).
+2. Extract ZIP to folder.
+
+
+
+
+
+
+
 
 
