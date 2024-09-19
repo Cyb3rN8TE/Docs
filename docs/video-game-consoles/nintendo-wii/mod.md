@@ -238,6 +238,10 @@ Now that we’re ready to dive into the fun part of modding, let’s begin by ga
 
 Start by inserting your SD card and External HDD into your computer. Once that's done, we’re ready to begin downloading the necessary packages and transferring the files.
 
+{% hint style="info" %}
+During the process of copying files to your SD card or external HDD, if your OS prompts you with options to either replace the files or skip them, you must choose to **replace the files**.
+{% endhint %}
+
 ### WiiFlow Application
 
 WiiFlow is an application used for loading backup games from a USB device or SD card. It presents your game library in a visually appealing format, making it super easy to browse and launch your games.
@@ -308,6 +312,37 @@ The Rhapsodii Shima theme is a custom visual theme designed for WiiFlow. It feat
 
 1. Download [Rhapsodii Shima Theme](https://gbatemp.net/download/rhapsodii-shima.36278/version/40103/download).
 2. Extract ZIP to folder.
+3. Locate the 'wiiflow' folder and copy this folder to the root of your SD Card.
+
+## WiiFlow Configuration
+
+### WiiFlow Forwarder
+
+To install the WiiFlow forwarder, we need to use Yet Another Wad Manager Mod (YAWMM). This tool will allow us to install the forwarder as a custom channel on your Wii's system menu. Once the installation is complete, you should see a new WiiFlow channel on your system menu. This channel provides a convenient shortcut, enabling you to launch WiiFlow directly with just one click.
+
+1. Power on your console.
+2. Launch the Homebrew Channel.
+3. Hover over 'Some YAWMM Mod' and press Ⓐ on your controller.
+4. Hover over 'Load' and press Ⓐ on your controller.
+5. Make sure that 'Select source device' shows 'Wii SD Slot' and then press Ⓐ on your controller.
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+6. Scroll until you have selected 'wads' and then press Ⓐ on your controller.
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+7. Select the Blue Circles .wad and press Ⓐ on your controller.
+
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+8. Make sure that select action shows 'Install WAD' and then press Ⓐ on your controller.
+
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+9. Wait for the installation process to complete and then press Ⓐ on your controller to continue.
+
+## Adding Games
 
 
 
