@@ -399,69 +399,69 @@ Please see the table below to know what file types each console supports, as wel
 
 #### Handhelds
 
-| Device                   | Emulator | File Type | File Location |
-| ------------------------ | -------- | --------- | ------------- |
-| Game and Watch           |          |           |               |
-| Game Boy                 |          |           |               |
-| Game Boy Advance         |          |           |               |
-| Game Boy Color           |          |           |               |
-| SNK Neo Geo Pocket       |          |           |               |
-| SNK Neo Geo Pocket Color |          |           |               |
-| Nintendo Virtual Boy     |          |           |               |
-| Sega Game Gear           |          |           |               |
-| WonderSwan               |          |           |               |
-| WonderSwan Color         |          |           |               |
-| Atari Lynx               |          |           |               |
+| Device                   | Emulator                           | File Type | File Location                   |
+| ------------------------ | ---------------------------------- | --------- | ------------------------------- |
+| Game and Watch           | Nintendo GW (Retroarch)            | TBA       | usb1:/ROMS/Nintendo/GW          |
+| Game Boy                 | Nintendo GB (Gambatte-RA)          | TBA       | usb1:/ROMS/Nintendo/GB          |
+| Game Boy Advance         | Nintendo GBA (mGBA-RA)             | TBA       | usb1:/ROMS/Nintendo/GBA         |
+| Game Boy Color           | Nintendo GBC (Gambatte-RA)         | TBA       | usb1:/ROMS/Nintendo/GBC         |
+| SNK Neo Geo Pocket       | SNK Neo Pocket (Wiimednafen)       | TBA       | usb1:/ROMS/Neo/Neo Pocket/BW    |
+| SNK Neo Geo Pocket Color | SNK Neo Pocket Color (Wiimednafen) | TBA       | usb1:/ROMS/Neo/Neo Pocket/Color |
+| Nintendo Virtual Boy     | Nintendo VB (WiiMednafen)          | TBA       | usb1:/ROMS/Nintendo/VB          |
+| Sega Game Gear           | Sega Game Gear (Hexaceo)           | TBA       | usb1:/ROMS/Sega/Game Gear       |
+| WonderSwan               | WonderSwan (WiiMednafen)           | TBA       | usb1:/ROMS/WonderSwan/BW        |
+| WonderSwan Color         | WonderSwan Color (Hexaeco)         | TBA       | usb1:/ROMS/WonderSwan/Color     |
+| Atari Lynx               | Atari Lynx (WiiMednafen)           | TBA       | usb1:/ROMS/Atari/Lynx           |
 
 #### Consoles
 
 | Device                              | Emulator | File Type | File Location |
 | ----------------------------------- | -------- | --------- | ------------- |
-| Coleco Vision                       |          |           |               |
-| vtech creativision                  |          |           |               |
-| Family Computer Disk System         |          |           |               |
-| Intellivision                       |          |           |               |
-| Magnavox Odyssey 2                  |          |           |               |
-| Nintendo Entertainment System       |          |           |               |
-| Nintendo 64                         |          |           |               |
-| NEC PC Engine                       |          |           |               |
-| NEC PC Engine CD-ROM 2              |          |           |               |
-| NEC PC Engine Super Grafx           |          |           |               |
-| NEC PC FX                           |          |           |               |
-| PlaySation                          |          |           |               |
-| Nintendo Satellaview                |          |           |               |
-| Sega Genesis 32X                    |          |           |               |
-| Sega Genesis                        |          |           |               |
-| Sega Master System                  |          |           |               |
-| Sega Mega CD                        |          |           |               |
-| Sega SG-1000                        |          |           |               |
-| Super Nintendo Entertainment System |          |           |               |
-| GCE Vectrex                         |          |           |               |
-| Amstrad GX 4000                     |          |           |               |
-| Atari 2600                          |          |           |               |
-| Atari 5200                          |          |           |               |
-| Atari 7800                          |          |           |               |
-| Atari XE Video Game System          |          |           |               |
+| Coleco Vision                       |          | TBA       |               |
+| vtech creativision                  |          | TBA       |               |
+| Family Computer Disk System         |          | TBA       |               |
+| Intellivision                       |          | TBA       |               |
+| Magnavox Odyssey 2                  |          | TBA       |               |
+| Nintendo Entertainment System       |          | TBA       |               |
+| Nintendo 64                         |          | TBA       |               |
+| NEC PC Engine                       |          | TBA       |               |
+| NEC PC Engine CD-ROM 2              |          | TBA       |               |
+| NEC PC Engine Super Grafx           |          | TBA       |               |
+| NEC PC FX                           |          | TBA       |               |
+| PlaySation                          |          | TBA       |               |
+| Nintendo Satellaview                |          | TBA       |               |
+| Sega Genesis 32X                    |          | TBA       |               |
+| Sega Genesis                        |          | TBA       |               |
+| Sega Master System                  |          | TBA       |               |
+| Sega Mega CD                        |          | TBA       |               |
+| Sega SG-1000                        |          | TBA       |               |
+| Super Nintendo Entertainment System |          | TBA       |               |
+| GCE Vectrex                         |          | TBA       |               |
+| Amstrad GX 4000                     |          | TBA       |               |
+| Atari 2600                          |          | TBA       |               |
+| Atari 5200                          |          | TBA       |               |
+| Atari 7800                          |          | TBA       |               |
+| Atari XE Video Game System          |          | TBA       |               |
 
 #### Computer Systems
 
 | Device                 | Emulator | File Type | File Location |
 | ---------------------- | -------- | --------- | ------------- |
-| BBC Micro              |          |           |               |
-| Commodore 64           |          |           |               |
-| Dragon32               |          |           |               |
-| MSX                    |          |           |               |
-| Nec PC-8800            |          |           |               |
-| Philips VG 5000        |          |           |               |
-| Thomson                |          |           |               |
-| TRS-80 Colour Computer |          |           |               |
-| TRS-80 Micro Computer  |          |           |               |
-| Sinclair ZX Spectrum   |          |           |               |
-| Commodore Amiga        |          |           |               |
-| Amstrad CPC            |          |           |               |
-| Apple II               |          |           |               |
-| Atari 800              |          |           |               |
-| Atari ST               |          |           |               |
+| BBC Micro              |          | TBA       |               |
+| Commodore 64           |          | TBA       |               |
+| Dragon32               |          | TBA       |               |
+| MSX                    |          | TBA       |               |
+| Nec PC-8800            |          | TBA       |               |
+| Philips VG 5000        |          | TBA       |               |
+| Thomson                |          | TBA       |               |
+| TRS-80 Colour Computer |          | TBA       |               |
+| TRS-80 Micro Computer  |          | TBA       |               |
+| Sinclair ZX Spectrum   |          | TBA       |               |
+| Commodore Amiga        |          | TBA       |               |
+| Amstrad CPC            |          | TBA       |               |
+| Apple II               |          | TBA       |               |
+| Atari 800              |          | TBA       |               |
+| Atari ST               |          | TBA       |               |
 
 
 
