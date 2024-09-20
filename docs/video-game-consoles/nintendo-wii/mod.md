@@ -95,14 +95,14 @@ For each IOS package in the table below:
 | Database > IOS | IOS57 | v5918   |
 | Database > IOS | IOS58 | v6175   |
 
-1. Make sure 'Pack WAD' is ticked.
-2. Click 'Start NUS Download'.
+1. Make sure **Pack WAD** is ticked.
+2. Click **Start NUS Download**.
 3. Once the download has complete, click the bin icon.
 
 #### WADs
 
 1. Close the NUS Downloader program, we're done with this.
-2. In the NUS Downloader directory, open the 'titles' folder.
+2. In the NUS Downloader directory, open the **titles** folder.
 3. Copy all files ending in .wad to the root of your SD Card.
 
 ## Installing to Wii
@@ -118,23 +118,23 @@ For each IOS package in the table below:
 ### HackMii Installer
 
 1. Press Ⓐ on your controller.
-2. Select 'Install The Homebrew Channel' and press Ⓐ on your controller.
-3. Select 'Yes, continue' and press Ⓐ on your controller.
+2. Select **Install The Homebrew Channel** and press Ⓐ on your controller.
+3. Select **Yes, continue** and press Ⓐ on your controller.
 4. Wait for the installation to complete.
-5. Once the installation is complete, select 'Continue' and press Ⓐ on your controller.
-6. Select 'BootMii...'
-7. If possible, select 'Install BootMii as boot2' and press Ⓐ on your controller. Don't worry if you can't, move on to the next step. For any prompts, select 'Yes, continue' and press Ⓐ on your controller.
-8. Select 'Install BootMii as IOS' and press Ⓐ on your controller. For any prompts, select 'Yes, continue' and press Ⓐ on your controller.
-9. Select 'Exit' and press Ⓐ on your controller.
+5. Once the installation is complete, select **Continue** and press Ⓐ on your controller.
+6. Select **BootMii...**
+7. If possible, select **Install BootMii as boot2** and press Ⓐ on your controller. Don't worry if you can't, move on to the next step. For any prompts, select **Yes, continue** and press Ⓐ on your controller.
+8. Select **Install BootMii as IOS** and press Ⓐ on your controller. For any prompts, select **Yes, continue** and press Ⓐ on your controller.
+9. Select **Exit** and press Ⓐ on your controller.
 
 ### Priiloader
 
-1. Hover over 'Priiloader Installer' and press Ⓐ on your controller.
-2. Hover over 'Load' and press Ⓐ on your controller.
+1. Hover over **Priiloader Installer** and press Ⓐ on your controller.
+2. Hover over **Load** and press Ⓐ on your controller.
 3. Press Ⓐ  or + on your controller and wait for the install to complete, then press Ⓐ  to continue.
 4. Turn off your console.
-5. Whilst holding down the 'reset' button on the front of your Wii, press the power button once and continue holding the 'reset' button until you see Priiloader main menu.
-6. Select 'System Menu Hacks' and press Ⓐ on your controller.
+5. Whilst holding down the **reset** button on the front of your Wii, press the power button once and continue holding the **reset** button until you see Priiloader main menu.
+6. Select **System Menu Hacks** and press Ⓐ on your controller.
 7. Enable the following features by selecting each and pressing Ⓐ on your controller to toggle enabled/disabled.
 
 | Feature                       | Status  |
@@ -144,13 +144,13 @@ For each IOS package in the table below:
 | Region Free EVERYTHING        | Enabled |
 | Auto-Press A at Health Screen | Enabled |
 
-8. Scroll down and select 'Save Settings', press Ⓐ on your controller.
-9. On the Priiloader main menu, select 'Homebrew Channel' and press Ⓐ on your controller.
+8. Scroll down and select **Save Settings**, press Ⓐ on your controller.
+9. On the Priiloader main menu, select **Homebrew Channel** and press Ⓐ on your controller.
 
 ### BootMii
 
 1. From the Homebrew Channel menu, press the home button on your controller.
-2. Select 'Launch BootMii' and press Ⓐ on your controller.
+2. Select **Launch BootMii** and press Ⓐ on your controller.
 3. From the BootMii main menu, press the power button on your console several times until the gears tile is selected, then press the reset button on your console.
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
@@ -160,22 +160,22 @@ For each IOS package in the table below:
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Wait for the backup process to complete. This process makes a NAND dump to your SD card which can be used to restore the console to stock should your console become bricked or you decide that you prefer a stock console.
-6. Once the process is complete you should see the following message, press the reset button on your console to continue.
+6. Once the process is complete you should see the following message, press the **reset** button on your console to continue.
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-7. From the BootMii menu, press the power button on your console several times until the back arrow tile is selected, then press the reset button on your console.
+7. From the BootMii menu, press the **power** button on your console several times until the back arrow tile is selected, then press the **reset** button on your console.
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-8. From the BootMii menu, press the power button on your console several times until the homebrew channel tile is selected, then press the reset button on your console.
+8. From the BootMii menu, press the **power** button on your console several times until the homebrew channel tile is selected, then press the **reset** button on your console.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### cIOS Installer
 
-1. From the homebrew channel menu, hover over 'd2x cIOS Installer' and press Ⓐ on your controller.
-2. Hover over 'Load' and press Ⓐ on your controller.
+1. From the homebrew channel menu, hover over **d2x cIOS Installer** and press Ⓐ on your controller.
+2. Hover over **Load** and press Ⓐ on your controller.
 
 #### IOS Install No. 1
 
@@ -226,11 +226,11 @@ For each IOS package in the table below:
 We need to prevent the Wii from launching BootMii whenever the console turns on:
 
 1. Insert your SD Card into your computer.
-2. Rename the 'bootmii' folder to 'bootmii\_x'
+2. Rename the **bootmii** folder to **bootmii\_x**.
 
 ### Backup NAND Dump
 
-As discussed earlier in the guide, we created a NAND dump of the console, which will allow us to recover from a bricked system or restore the console to its original state. This process generated two files: 'keys.bin' and 'nand.bin.' Copy these files from the root of your SD card and store them in a secure location. I recommend creating a folder named 'Wii Backup' on your Google Drive and uploading the files there for safekeeping.
+As discussed earlier in the guide, we created a NAND dump of the console, which will allow us to recover from a bricked system or restore the console to its original state. This process generated two files: **keys.bin** and **nand.bin**. Copy these files from the root of your SD card and store them in a secure location. I recommend creating a folder named **Wii Backup** on your Google Drive and uploading the files there for safekeeping.
 
 ## WiiFlow Prepartion
 
@@ -248,7 +248,7 @@ WiiFlow is an application used for loading backup games from a USB device or SD 
 
 1. Download [WiiFlow](https://github.com/Fledge68/WiiFlow\_Lite/releases/download/v.5.5.4\_1/wiiflow\_v5.5.4-1.zip).
 2. Extract ZIP to folder.
-3. Open the folder and copy the 'apps' and 'wiiflow' folders to the root of your SD Card.
+3. Open the folder and copy the **apps** and **wiiflow** folders to the root of your SD Card.
 
 ### Some YAWMM Mod
 
@@ -256,15 +256,15 @@ YAWMM is used to manage **WAD files**, which are packages containing data like c
 
 1. Download Some [YAWMM Mod](https://github.com/FIX94/Some-YAWMM-Mod/releases/download/v1.0/some-yawmm-mod-v1.0.zip).
 2. Extract ZIP to folder.
-3. Locate the folder which contains the file 'boot.dol' and copy the folder to the 'apps' folder on your SD Card.
+3. Locate the folder which contains the file **boot.dol** and copy the folder to the **apps** folder on your SD Card.
 
 ### WiiFlow Forwarder
 
 A WiiFlow Forwarder is a custom channel installed on the Wii's system menu that acts as a shortcut to launch the WiiFlow application directly from the home screen. Instead of navigating through the Homebrew Channel to start WiiFlow, the forwarder allows you to access it quickly with just one click.
 
 1. Download [WiiFlow Forwarder](https://repo.mariocube.com/WADs/Forwarders/WiiFlow%20Forwarders/Wii/Blue%20Circles-FIX94v14b-DWFA.wad).
-2. Create a new folder on the root of your SD Card called 'wads'.
-3. Copy the Blue Circles .wad file to the 'wads' folder on your SD Card.
+2. Create a new folder on the root of your SD Card called **wads**.
+3. Copy the Blue Circles .wad file to the **wads** folder on your SD Card.
 
 ### WiiFlow Plugins Pack
 
@@ -275,14 +275,14 @@ The WiiFlow Plugins Pack is a collection of plugins that expand the functionalit
 
 #### SD Card
 
-1. Locate the folder called 'COPY\_TO\_SD\_OR\_USB' and copy the entire folder contents to the root of your SD Card.
-2. Locate the folder called 'COPY\_TO\_SD' and copy the entire folder contents to the root of your SD Card.
+1. Locate the folder called **COPY\_TO\_SD\_OR\_USB** and copy the entire folder contents to the root of your SD Card.
+2. Locate the folder called **COPY\_TO\_SD** and copy the entire folder contents to the root of your SD Card.
 
 #### External HDD
 
-1. Locate the folder called 'COPY\_TO\_USB' and copy the entire folder contents to the root of your External HDD.
-2. Create a folder called 'wbfs' on the root of your SD Card.
-3. Create a folder called 'games' on the root of your SD Card.
+1. Locate the folder called **COPY\_TO\_USB** and copy the entire folder contents to the root of your External HDD.
+2. Create a folder called **wbfs** on the root of your SD Card.
+3. Create a folder called **games** on the root of your SD Card.
 
 ### WiiFlow Emulator Database
 
@@ -293,18 +293,18 @@ The WiiFlow Emulator Database is a collection of information that helps WiiFlow 
 
 #### WiiFlow CartDisk
 
-1. Open the folder called 'Wiiflow\_CartDisk'.
-2. Copy the 'wiiflow' folder to the root of your SD Card.
+1. Open the folder called **Wiiflow\_CartDisk**.
+2. Copy the **wiiflow** folder to the root of your SD Card.
 
 #### WiiFlow Database
 
-1. Open the folder called 'Wiiflow\_Database'.
-2. Copy the 'wiiflow' folder to the root of your SD Card.
+1. Open the folder called **Wiiflow\_Database**.
+2. Copy the **wiiflow** folder to the root of your SD Card.
 
 #### WiiFlow Snapshots
 
-1. Open the folder called 'Wiiflow\_Snapshots\_MOD'.
-2. Locate the 'wiiflow' folder and copy this folder to the root of your SD Card.
+1. Open the folder called **Wiiflow\_Snapshots\_MOD**.
+2. Locate the **wiiflow** folder and copy this folder to the root of your SD Card.
 
 ### Rhapsodii Shima WiiFlow Theme
 
@@ -312,7 +312,7 @@ The Rhapsodii Shima theme is a custom visual theme designed for WiiFlow. It feat
 
 1. Download [Rhapsodii Shima Theme](https://gbatemp.net/download/rhapsodii-shima.36278/version/40103/download).
 2. Extract ZIP to folder.
-3. Locate the 'wiiflow' folder and copy this folder to the root of your SD Card.
+3. Locate the **wiiflow** folder and copy this folder to the root of your SD Card.
 
 ## WiiFlow Configuration
 
@@ -322,13 +322,13 @@ To install the WiiFlow forwarder, we need to use Yet Another Wad Manager Mod (YA
 
 1. Power on your console.
 2. Launch the Homebrew Channel.
-3. Hover over 'Some YAWMM Mod' and press Ⓐ on your controller.
-4. Hover over 'Load' and press Ⓐ on your controller.
-5. Make sure that 'Select source device' shows 'Wii SD Slot' and then press Ⓐ on your controller.
+3. Hover over **Some YAWMM Mod** and press Ⓐ on your controller.
+4. Hover over **Load** and press Ⓐ on your controller.
+5. Make sure that **Select source device** shows **Wii SD Slot** and then press Ⓐ on your controller.
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-6. Scroll until you have selected 'wads' and then press Ⓐ on your controller.
+6. Scroll until you have selected **wads** and then press Ⓐ on your controller.
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -336,7 +336,7 @@ To install the WiiFlow forwarder, we need to use Yet Another Wad Manager Mod (YA
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-8. Make sure that select action shows 'Install WAD' and then press Ⓐ on your controller.
+8. Make sure that select action shows **Install WAD** and then press Ⓐ on your controller.
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
