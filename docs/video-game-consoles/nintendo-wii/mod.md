@@ -387,9 +387,67 @@ WiiFlow Auto Boot is a feature that allows the WiiFlow application to start auto
 11. Select **Installed File**.
 12. Reboot the console to confirm that WiiFlow automatically starts.
 
-## Adding Games
+## Games
 
-Coming soon...
+### Wii
+
+### GameCube
+
+### Emulators
+
+Please see the table below to know what file types each console supports, as well as recommended emulators and game file locations.
+
+#### Handhelds
+
+| Device                   | Emulator | File Type | File Location |
+| ------------------------ | -------- | --------- | ------------- |
+| Game and Watch           |          |           |               |
+| Game Boy                 |          |           |               |
+| Game Boy Advance         |          |           |               |
+| Game Boy Color           |          |           |               |
+| SNK Neo Geo Pocket       |          |           |               |
+| SNK Neo Geo Pocket Color |          |           |               |
+| Nintendo Virtual Boy     |          |           |               |
+| Sega Game Gear           |          |           |               |
+| WonderSwan               |          |           |               |
+| WonderSwan Color         |          |           |               |
+| Atari Lynx               |          |           |               |
+
+#### Consoles
+
+| Device | Emulator | File Type | File Location |
+| ------ | -------- | --------- | ------------- |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+
+#### Computer Systems
+
+| Device | Emulator | File Type | File Location |
+| ------ | -------- | --------- | ------------- |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+|        |          |           |               |
+
+
+
+
 
 
 
