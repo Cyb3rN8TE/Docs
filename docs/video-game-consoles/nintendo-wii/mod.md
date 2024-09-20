@@ -391,7 +391,25 @@ WiiFlow Auto Boot is a feature that allows the WiiFlow application to start auto
 
 ### Wii
 
+{% hint style="info" %}
+Wii game backups need to be in **.wbfs** format.
+{% endhint %}
+
+#### Wii Backup Manager
+
+1. Download Wii Backup Manager.
+2. Extract ZIP to folder.
+
 ### GameCube
+
+{% hint style="info" %}
+GameCube game backups need to be in **.iso** format.
+{% endhint %}
+
+#### GameCube Backup Manager
+
+1. Download GameCube Backup Manager
+2. Extract ZIP to folder.
 
 ### Emulators
 
@@ -463,7 +481,15 @@ Please see the table below to know what file types each console supports, as wel
 | Atari 800              | Atari XL (WiiXL)        | TBA       | sd:/wiixl/software/800xl |
 | Atari ST               | Atari ST                | TBA       | sd:/hatari/fd            |
 
+## Credits
 
+Below are some of the key individuals and teams who deserve special recognition for their efforts in making tools, mods, and resources available to the Wii community.
+
+| Product | Creator |
+| ------- | ------- |
+|         |         |
+|         |         |
+|         |         |
 
 
 
