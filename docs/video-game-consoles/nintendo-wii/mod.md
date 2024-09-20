@@ -415,53 +415,53 @@ Please see the table below to know what file types each console supports, as wel
 
 #### Consoles
 
-| Device                              | Emulator | File Type | File Location |
-| ----------------------------------- | -------- | --------- | ------------- |
-| Coleco Vision                       |          | TBA       |               |
-| vtech creativision                  |          | TBA       |               |
-| Family Computer Disk System         |          | TBA       |               |
-| Intellivision                       |          | TBA       |               |
-| Magnavox Odyssey 2                  |          | TBA       |               |
-| Nintendo Entertainment System       |          | TBA       |               |
-| Nintendo 64                         |          | TBA       |               |
-| NEC PC Engine                       |          | TBA       |               |
-| NEC PC Engine CD-ROM 2              |          | TBA       |               |
-| NEC PC Engine Super Grafx           |          | TBA       |               |
-| NEC PC FX                           |          | TBA       |               |
-| PlaySation                          |          | TBA       |               |
-| Nintendo Satellaview                |          | TBA       |               |
-| Sega Genesis 32X                    |          | TBA       |               |
-| Sega Genesis                        |          | TBA       |               |
-| Sega Master System                  |          | TBA       |               |
-| Sega Mega CD                        |          | TBA       |               |
-| Sega SG-1000                        |          | TBA       |               |
-| Super Nintendo Entertainment System |          | TBA       |               |
-| GCE Vectrex                         |          | TBA       |               |
-| Amstrad GX 4000                     |          | TBA       |               |
-| Atari 2600                          |          | TBA       |               |
-| Atari 5200                          |          | TBA       |               |
-| Atari 7800                          |          | TBA       |               |
-| Atari XE Video Game System          |          | TBA       |               |
+| Device                              | Emulator                       | File Type | File Location                    |
+| ----------------------------------- | ------------------------------ | --------- | -------------------------------- |
+| Coleco Vision                       | Colecovision (WiiColem)        | TBA       | sd:/wiicolem/roms                |
+| vtech creativision                  | CreatiVision                   | TBA       | usb1:/ROMS/funny                 |
+| Family Computer Disk System         | Nintendo FDS (wiimednafen)     | TBA       | usb1:/ROMS/Nintendo/FDS          |
+| Intellivision                       | Intellivsion (JzintvWii)       | TBA       | sd:/jzintvWii/roms               |
+| Magnavox Odyssey 2                  | Odyssey2 (O2EM-Wii)            | TBA       | usb1:/ROMS/romsodd               |
+| Nintendo Entertainment System       | Nintendo NES (FCEUmm-HEX)      | TBA       | usb1:/ROMS/Nintendo/NES/FCEUmm   |
+| Nintendo 64                         | Nintendo N64 (Not64)           | TBA       | sd:/not64/roms                   |
+| NEC PC Engine                       | NEC PCE (Fast-RA)              | TBA       | usb1:/ROMS/NEC/PCE               |
+| NEC PC Engine CD-ROM 2              | NEC PCE CD (Fast-RA)           | TBA       | usb1:/ROMS/NEC/PCE CD            |
+| NEC PC Engine Super Grafx           | NEC SGFX (Hexaeco)             | TBA       | usb1:/ROMS/NEC/SGFX              |
+| NEC PC FX                           | NEC PC-FX (WiiMednafen)        | TBA       | usb1:/ROMS/NEC/PC-FX             |
+| PlaySation                          | PlaySation (WiiStation)        | TBA       | usb1:/ROMS/Sony/isos             |
+| Nintendo Satellaview                | Nintendo Satellaview (Hexaeco) | TBA       | usb1:/ROMS/Nintendo/Satellaview/ |
+| Sega Genesis 32X                    | Sega 32X (Retroarch)           | TBA       | usb1:/ROMS/Sega/32X              |
+| Sega Genesis                        | Sega Mega Drive (GX-RA)        | TBA       | usb1:/ROMS/Sega/Mega Drive       |
+| Sega Master System                  | Sega Master System (GX-RA)     | TBA       | usb1:/ROMS/Sega/Master System    |
+| Sega Mega CD                        | Sega Mega CD (GX-RA)           | TBA       | usb1:/ROMS/Sega/Mega CD          |
+| Sega SG-1000                        | Sega SG-1000 (Hexaeco)         | TBA       | usb1:/ROMS/Sega/SG-1000          |
+| Super Nintendo Entertainment System | Nintendo SNES (Hexaeco)        | TBA       | usb1:/ROMS/Nintendo/SNES         |
+| GCE Vectrex                         | Vectrex (VectrexWii)           | TBA       | usb1:/ROMS/Vectrex/              |
+| Amstrad GX 4000                     | Amstrad GX4000 (Retroarch)     | TBA       | usb1:/ROMS/Amstrad/GX4000        |
+| Atari 2600                          | Atari 2600 (Retroarch)         | TBA       | sd:/wii2600/roms                 |
+| Atari 5200                          | Atari 5200 (Retroarch)         | TBA       | sd:/wiixl/software/5200          |
+| Atari 7800                          | Atari 7800 (Wii7800)           | TBA       | sd:/wii7800/roms                 |
+| Atari XE Video Game System          | Atari XEGS (Retroarch)         | TBA       | sd:/wiixl/software/XEGS          |
 
 #### Computer Systems
 
-| Device                 | Emulator | File Type | File Location |
-| ---------------------- | -------- | --------- | ------------- |
-| BBC Micro              |          | TBA       |               |
-| Commodore 64           |          | TBA       |               |
-| Dragon32               |          | TBA       |               |
-| MSX                    |          | TBA       |               |
-| Nec PC-8800            |          | TBA       |               |
-| Philips VG 5000        |          | TBA       |               |
-| Thomson                |          | TBA       |               |
-| TRS-80 Colour Computer |          | TBA       |               |
-| TRS-80 Micro Computer  |          | TBA       |               |
-| Sinclair ZX Spectrum   |          | TBA       |               |
-| Commodore Amiga        |          | TBA       |               |
-| Amstrad CPC            |          | TBA       |               |
-| Apple II               |          | TBA       |               |
-| Atari 800              |          | TBA       |               |
-| Atari ST               |          | TBA       |               |
+| Device                 | Emulator                | File Type | File Location            |
+| ---------------------- | ----------------------- | --------- | ------------------------ |
+| BBC Micro              | BBC MICRO               | TBA       | sd:/apps/beebem/games    |
+| Commodore 64           | C64 (C64-Network.org)   | TBA       | sd:/frodo/Games          |
+| Dragon32               | Dragon 32/64            | TBA       | usb1:/ROMS/Dragon        |
+| MSX                    | MSX (Retroarch)         | TBA       | sd:/MSX/Games            |
+| Nec PC-8800            | NEC PC-8801             | TBA       | sd:/quasi88/disk         |
+| Philips VG 5000        | VG5000 (dcvg5k)         | TBA       | sd:/apps/dcvg5k/software |
+| Thomson                | Thomson MO5 (Retroarch) | TBA       | usb1:/ROMS/Thomson       |
+| TRS-80 Colour Computer | Tandy CoCo 1/2          | TBA       | usb1:/ROMS/Coco          |
+| TRS-80 Micro Computer  | TRS-80 (sdltrs-wii)     | TBA       | usb1:/ROMS/TRS80/disks   |
+| Sinclair ZX Spectrum   | ZX Spectrum (Hexaceo)   | TBA       | sd:/fbzx-wii             |
+| Commodore Amiga        | Amiga                   | TBA       | sd:/uae/floppies/        |
+| Amstrad CPC            | Amstrad CPC (Retroarch) | TBA       | usb1:/ROMS/Amstrad/CPC   |
+| Apple II               | Apple II                | TBA       | sd:/wiiapple/            |
+| Atari 800              | Atari XL (WiiXL)        | TBA       | sd:/wiixl/software/800xl |
+| Atari ST               | Atari ST                | TBA       | sd:/hatari/fd            |
 
 
 
