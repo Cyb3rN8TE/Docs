@@ -415,35 +415,53 @@ Please see the table below to know what file types each console supports, as wel
 
 #### Consoles
 
-| Device | Emulator | File Type | File Location |
-| ------ | -------- | --------- | ------------- |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
+| Device                              | Emulator | File Type | File Location |
+| ----------------------------------- | -------- | --------- | ------------- |
+| Coleco Vision                       |          |           |               |
+| vtech creativision                  |          |           |               |
+| Family Computer Disk System         |          |           |               |
+| Intellivision                       |          |           |               |
+| Magnavox Odyssey 2                  |          |           |               |
+| Nintendo Entertainment System       |          |           |               |
+| Nintendo 64                         |          |           |               |
+| NEC PC Engine                       |          |           |               |
+| NEC PC Engine CD-ROM 2              |          |           |               |
+| NEC PC Engine Super Grafx           |          |           |               |
+| NEC PC FX                           |          |           |               |
+| PlaySation                          |          |           |               |
+| Nintendo Satellaview                |          |           |               |
+| Sega Genesis 32X                    |          |           |               |
+| Sega Genesis                        |          |           |               |
+| Sega Master System                  |          |           |               |
+| Sega Mega CD                        |          |           |               |
+| Sega SG-1000                        |          |           |               |
+| Super Nintendo Entertainment System |          |           |               |
+| GCE Vectrex                         |          |           |               |
+| Amstrad GX 4000                     |          |           |               |
+| Atari 2600                          |          |           |               |
+| Atari 5200                          |          |           |               |
+| Atari 7800                          |          |           |               |
+| Atari XE Video Game System          |          |           |               |
 
 #### Computer Systems
 
-| Device | Emulator | File Type | File Location |
-| ------ | -------- | --------- | ------------- |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
-|        |          |           |               |
+| Device                 | Emulator | File Type | File Location |
+| ---------------------- | -------- | --------- | ------------- |
+| BBC Micro              |          |           |               |
+| Commodore 64           |          |           |               |
+| Dragon32               |          |           |               |
+| MSX                    |          |           |               |
+| Nec PC-8800            |          |           |               |
+| Philips VG 5000        |          |           |               |
+| Thomson                |          |           |               |
+| TRS-80 Colour Computer |          |           |               |
+| TRS-80 Micro Computer  |          |           |               |
+| Sinclair ZX Spectrum   |          |           |               |
+| Commodore Amiga        |          |           |               |
+| Amstrad CPC            |          |           |               |
+| Apple II               |          |           |               |
+| Atari 800              |          |           |               |
+| Atari ST               |          |           |               |
 
 
 
