@@ -397,8 +397,24 @@ Wii game backups need to be in **.wbfs** format.
 
 #### Wii Backup Manager
 
-1. Download Wii Backup Manager.
+1. Download [Wii Backup Manager](https://wiibackupmanager.co.uk/ad/WiiBackupManager\_Build78.html).
 2. Extract ZIP to folder.
+3. Launch Wii Backup Manager.
+4. Make sure that the **files** tab is active and select **Add** and then **Folder**.
+
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+5. Select your folder that contains your Wii games in .wbfs format.
+6. Click **Select** and then **All**.
+
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+7. Click **Transfer** and then **WBFS File**.
+
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+8. Select the **wbfs** folder on your External HDD.
+9. Once the progress bar reaches 100%, the game backups have been successfully transferred, and you can close the program.
 
 ### GameCube
 
@@ -408,7 +424,7 @@ GameCube game backups need to be in **.iso** format.
 
 #### GameCube Backup Manager
 
-1. Download GameCube Backup Manager
+1. Download [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases/download/2.6.1.9/GCBM.zip).
 2. Extract ZIP to folder.
 
 ### Emulators
