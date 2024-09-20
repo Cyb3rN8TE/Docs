@@ -157,7 +157,7 @@ For each IOS package in the table below:
 
 4. Press the power button on your console several times until the backup NAND option is selected, then press the reset button on your console.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Wait for the backup process to complete. This process makes a NAND dump to your SD card which can be used to restore the console to stock should your console become bricked or you decide that you prefer a stock console.
 6. Once the process is complete you should see the following message, press the reset button on your console to continue.
@@ -166,11 +166,11 @@ For each IOS package in the table below:
 
 7. From the BootMii menu, press the power button on your console several times until the back arrow tile is selected, then press the reset button on your console.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 8. From the BootMii menu, press the power button on your console several times until the homebrew channel tile is selected, then press the reset button on your console.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### cIOS Installer
 
@@ -181,7 +181,7 @@ For each IOS package in the table below:
 
 1. Using your controller, match the following settings.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Once the settings match, press Ⓐ on your controller.
 5. On the slots map page press Ⓐ again on your controller.
@@ -404,7 +404,7 @@ Wii game backups need to be in **.wbfs** format.
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-5. Select your folder that contains your Wii games in .wbfs format.
+5. Select the folder that contains your Wii games in .wbfs format.
 6. Click **Select** and then **All**.
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
@@ -426,6 +426,16 @@ GameCube game backups need to be in **.iso** format.
 
 1. Download [GameCube Backup Manager](https://github.com/AxionDrak/GameCube-Backup-Manager/releases/download/2.6.1.9/GCBM.zip).
 2. Extract ZIP to folder.
+3. Launch GameCube Backup Manager.
+4. Make sure the **Files (Destination)** tab is active, then click the dropdown to select the drive letter of your external HDD.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+5. Select the **Files (Source)** tab and then click **More Directories**.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+6. Select the folder that contains your GameCube games in .iso format.
 
 ### Emulators
 
