@@ -4,6 +4,8 @@
 
 This section will guide you through restoring the data on your SD Card and External HDD. Should anything happen to your console, SD Card, or External HDD, this guide will make it simple to restore everything back to the way it was. You’ll learn how to properly recover both storage devices, ensuring your games, saves, and homebrew applications are back up and running with minimal hassle.
 
+We're going to be using Rescuezilla Live OS to get the job done. Rescuezilla allows us to perform **full disk image backups**, which means it captures an exact replica of all the data on your storage devices, ensuring a precise and reliable backup.
+
 ## Equipment
 
 You will need:
@@ -11,7 +13,7 @@ You will need:
 * Blank USB Flash Drive.
 * Computer.
 * SDHC SDXC Memory Card Reader.
-* Internal or External HDD that has enough available space to store the backups.
+* Internal or External Storage that has enough available space to store the backups.
 
 ## Preparation
 
@@ -22,9 +24,11 @@ You will need:
 ## External HDD
 
 1. Boot the Rescuezilla OS.
-2. Select **Restore** and follow the prompts.
+2. Insert your External HDD.
+3. Select **Restore** and follow the prompts.
 
 ## SD Card
 
 1. Boot the Rescuezilla OS.
-2. Select **Restore** and follow the prompts.
+2. Insert your SD Card.
+3. Select **Restore** and follow the prompts.
