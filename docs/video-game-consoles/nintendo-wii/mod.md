@@ -170,7 +170,7 @@ For each IOS package in the table below:
 
 8. From the BootMii menu, press the **power** button on your console several times until the homebrew channel tile is selected, then press the **reset** button on your console.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### cIOS Installer
 
@@ -429,7 +429,7 @@ GameCube game backups need to be in **.iso** format.
 3. Launch GameCube Backup Manager.
 4. Make sure the **Files (Destination)** tab is active, then click the dropdown to select the drive letter of your external HDD.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the **Files (Source)** tab and then click **More Directories**.
 
@@ -438,7 +438,7 @@ GameCube game backups need to be in **.iso** format.
 6. Select the folder that contains your GameCube games in .iso format.
 7. Tick the box next to each game and then click **Install Game**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Once the progress bar reaches 100%, the game backups have been successfully transferred, and you can close the program.
 
