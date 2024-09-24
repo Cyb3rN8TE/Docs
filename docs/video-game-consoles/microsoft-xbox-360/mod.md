@@ -63,6 +63,22 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 
 1. Set the correct date and time in the consoles settings.
 
+## Teardown
+
+Tearing down an Xbox 360 Slim can be tricky to explain in writing, so I’ve provided a link to an excellent guide by 7Heavens on the WeMod forum. Their detailed instructions and visuals will help you through the process step by step. Click [here ](https://community.wemod.com/t/how-to-open-a-xbox-360-slim/351)to visit the guide.
+
+## Aurora Dashboard
+
+## Games
+
+### Xbox 360
+
+### Xbox
+
+## DLC
+
+### Xbox 360
+
 
 
 ## Credits
