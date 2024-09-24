@@ -192,9 +192,34 @@ Using the diagram below as a reference, connect each coloured wire from your Bre
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-3. Make sure to select **Glitch2**, **RGH3** and then click **Create XeLL**.
+### Create XeLL Image
+
+1. Make sure to select **Glitch2**, **RGH3** and then click **Create XeLL**.
 
 <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+3. Once the process has completed, click **Write XeLL**.
+4. Once the process is complete, disconnect your Raspberry Pi Pico from your computer.
+
+### CPU Key
+
+1. Connect a monitor or TV to your console.
+2. Power on your console.
+3. Wait for XeLL Reloaded to initialise on your Xbox 360. Once it has loaded, console details such as the CPU key and other system information will be displayed on the screen.
+4. Take note of your CPU key displayed on the screen and carefully enter it into J-Runner. Make sure it is an exact match, as an incorrect CPU key can cause issues with the modding process and potentially brick your console. Double-check each character to avoid any errors.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+5. Once the check has completed, you can power off your Xbox 360 console while ensuring it remains plugged into power.
+
+### Flash RGH NAND
+
+1. Connect your Raspberry Pi Pico back to the computer using the micro USB cable.
+2. Click **Create XeBuild**.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+3. Once the process has completed, click **Write Nand**.
 
 ## Aurora Dashboard
 
