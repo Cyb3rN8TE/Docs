@@ -229,6 +229,14 @@ Navigate to the directory shown in your J-Runner where all the NAND dump files a
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+## Cleanup
+
+At this point your console has been successfully RGH3 modded. Follow the remaining cleanup steps before moving on to the fun stuff:
+
+1. Power off the console.
+2. Desolder each of the Breadboard Jumper wires from the NAND points on the top of the console's motherboard. Take your time to ensure that you do not damage any of the surrounding pads during the desoldering process. Once all wires are removed, inspect the area for any solder bridges or debris before moving on.
+3. Reassemble the console completely.
+
 ## Aurora Dashboard
 
 ## Games
