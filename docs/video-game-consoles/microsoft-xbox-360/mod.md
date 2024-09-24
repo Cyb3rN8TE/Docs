@@ -93,7 +93,7 @@ Now that you have fully removed the motherboard and heatsink covering the proces
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Image credit weekendmodder.com</p></figcaption></figure>
 
-For each of the solder points:
+For each of the solder points on the console motherboard:
 
 1. Clean the point with isopropyl alcohol.
 2. Apply flux to the point.
