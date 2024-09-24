@@ -29,17 +29,39 @@ By following this guide, you assume full responsibility for your actions. I will
 
 You will need:
 
-* Nintendo Wii.
-* 2TB External Hard Drive (preferably with external power).
-* SanDisk Ultra 256GB SDHC SDXC UHS-I Memory Card.
+* Microsoft Xbox 360 Slim (Trinity)
+
+{% hint style="info" %}
+This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use the image below** to compare the power supply rating and **manufacture date** of your console. If the power rating matches **12V - 10.83A, 135 watts** and the manufacture date falls between **mid-2010 and early 2011**, you have a **Trinity Xbox 360 Slim**.
+
+
+
+![](../../../.gitbook/assets/Untitled-2.jpg)
+{% endhint %}
+
+* Xbox 360 Hard Drive Disk Cover Replacement
+* Seagate BarraCuda 2.5" Notebook HDD - 2TB 128MB
+* 10k Ohm 0.5 Watt Metal Film Resistor
+* X-Clamp Removal Tool
+* Heat Shrink Tubing
+* ARCTIC MX-4 Thermal Compound Paste
+* Digital Microscope
+* SRA Soldering Products Rosin Paste Flux #135 in a 2 oz Jar
+* Seagate 2TB Expansion Portable HDD
+* MG Chemicals 99.9% Isopropyl Alcohol
+* MG Chemicals Lead Free No Clean Flux 1L
+* Soldering Iron
+* Solder
+* 30AWG Kynar wire
+* Raspberry Pi Pico
+* Screwdriver set with T8/T10
+* X-Acto Knife
 
 ## Prerequisites
 
 1. Set the correct date and time in the consoles settings.
-2. Connect your console to the Internet.
-3. Update your console to the latest version (if it isn't already).
-4. Make note of your Wii's version. It will be 4.3U, 4.3E, 4.3J or 4.3K depending on your consoles region.
-5. Make note of your console's MAC Address.
+
+
 
 ## Credits
 
