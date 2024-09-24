@@ -89,6 +89,44 @@ Now that you have fully removed the motherboard and heatsink covering the proces
 
 <figure><img src="../../../.gitbook/assets/IMG20240801133725.jpg" alt=""><figcaption></figcaption></figure>
 
+### Prepare Solder Points
+
+At this stage, we want to start preparing our solder points for the RGH 3 mod. Below is an image of a Trinity Xbox 360 Slim motherboard that highlights each of the points we will be preparing and soldering to.
+
+<figure><img src="../../../.gitbook/assets/Xbox_360_Trinity.png" alt=""><figcaption></figcaption></figure>
+
+#### POST
+
+1. Clean the point with isopropyl alcohol.
+2. Apply flux to the point.
+3. Tin the point with solder.
+
+#### PLL\_BYPASS
+
+1. Clean the point with isopropyl alcohol.&#x20;
+2. Using an X-Acto Knife, carefully expose the VIA.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+1. Apply flux to the point.&#x20;
+2. Tin the point with solder.
+
+SMC\_POST
+
+1. Clean the point with isopropyl alcohol.
+2. Apply flux to the point.
+3. Tin the point with solder.
+
+#### SMC\_PLL
+
+1. Clean the point with isopropyl alcohol.
+2. Apply flux to the point.
+3. Tin the point with solder.
+
 ## Aurora Dashboard
 
 ## Games
