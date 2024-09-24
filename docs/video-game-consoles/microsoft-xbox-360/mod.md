@@ -61,7 +61,8 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 
 ## Prerequisites
 
-1. Set the correct date and time in the consoles settings.
+1. Update your console to the latest version.
+2. Transfer your main profile to a USB drive and keep it safe. This guide won’t cover going online, and even if it did, I don’t recommend using your main profile on the console, as it may risk getting you banned.
 
 ## Teardown
 
