@@ -154,6 +154,7 @@ Now it’s time to solder! Refer to the image below for guidance on where to mak
 
 2. Reattach the four-pin fan connector and position the fan on top of the processor, ensuring that all four posts fit securely through the holes on the motherboard.
 3. Flip the motherboard over and reattach the X-clamp using the X-clamp removal tool. Ensure that the oval-shaped hole on the X-clamp is oriented towards the front of the console for proper alignment and secure fastening.
+4. Place the motherboard back into the case and reattach the power LED board. Connect the faceplate to the LED board using the ribbon cable, which will allow you to use the power and eject buttons to turn on the console when you reach that step. Ensure all connections are secure for proper functionality.
 
 ## Solder NAND Points
 
@@ -161,7 +162,13 @@ Using the diagram below as a reference, connect each coloured wire from your Bre
 
 <figure><img src="../../../.gitbook/assets/TrinityPicoFlasherWiringDiagram.png" alt=""><figcaption></figcaption></figure>
 
+## Flashing the NAND
 
+### J-Runner
+
+1. Download J-Runner with extras [here](https://github.com/Octal450/J-Runner-with-Extras/releases/download/V3.3.0-r3/J-Runner-with-Extras.zip).
+2. Extract the archive to a folder.
+3. Launch JRunner.exe
 
 ## Aurora Dashboard
 
