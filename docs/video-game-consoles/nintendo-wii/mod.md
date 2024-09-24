@@ -157,7 +157,7 @@ For each IOS package in the table below:
 
 4. Press the power button on your console several times until the backup NAND option is selected, then press the reset button on your console.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Wait for the backup process to complete. This process makes a NAND dump to your SD card which can be used to restore the console to stock should your console become bricked or you decide that you prefer a stock console.
 6. Once the process is complete you should see the following message, press the **reset** button on your console to continue.
@@ -170,7 +170,7 @@ For each IOS package in the table below:
 
 8. From the BootMii menu, press the **power** button on your console several times until the homebrew channel tile is selected, then press the **reset** button on your console.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### cIOS Installer
 
@@ -181,7 +181,7 @@ For each IOS package in the table below:
 
 1. Using your controller, match the following settings.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Once the settings match, press Ⓐ on your controller.
 5. On the slots map page press Ⓐ again on your controller.
@@ -429,16 +429,16 @@ GameCube game backups need to be in **.iso** format.
 3. Launch GameCube Backup Manager.
 4. Make sure the **Files (Destination)** tab is active, then click the dropdown to select the drive letter of your external HDD.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the **Files (Source)** tab and then click **More Directories**.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Select the folder that contains your GameCube games in .iso format.
 7. Tick the box next to each game and then click **Install Game**.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Once the progress bar reaches 100%, the game backups have been successfully transferred, and you can close the program.
 

@@ -208,7 +208,7 @@ Using the diagram below as a reference, connect each coloured wire from your Bre
 3. Wait for XeLL Reloaded to initialise on your Xbox 360. Once it has loaded, console details such as the CPU key and other system information will be displayed on the screen.
 4. Take note of your CPU key displayed on the screen and carefully enter it into J-Runner. Make sure it is an exact match, as an incorrect CPU key can cause issues with the modding process and potentially brick your console. Double-check each character to avoid any errors.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 5. Once the check has completed, you can power off your Xbox 360 console while ensuring it remains plugged into power.
 
@@ -217,9 +217,17 @@ Using the diagram below as a reference, connect each coloured wire from your Bre
 1. Connect your Raspberry Pi Pico back to the computer using the micro USB cable.
 2. Click **Create XeBuild**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Once the process has completed, click **Write Nand**.
+4. Wait for the process to complete successfully.&#x20;
+5. Test that the flashing worked by pressing the eject button on your Xbox 360 console. If the flashing was successful, you should see the console boot into XeLL Reloaded.
+
+### NAND Dump Backup
+
+Navigate to the directory shown in your J-Runner where all the NAND dump files are stored. It’s important to back these files up to a safe location, such as cloud storage, as you’ll need them if you ever want to return the console to its original stock state. Ensuring these backups are secure will help you avoid any potential issues in the future.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Aurora Dashboard
 
