@@ -56,6 +56,8 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 * Raspberry Pi Pico
 * Screwdriver set with T8/T10
 * X-Acto Knife
+* Paper Towel
+* Computer
 
 ## Prerequisites
 
