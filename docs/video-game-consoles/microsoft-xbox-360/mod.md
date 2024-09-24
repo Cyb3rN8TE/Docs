@@ -176,6 +176,11 @@ Using the diagram below as a reference, connect each coloured wire from your Bre
 1. Download PicoFlasher [here](https://github.com/X360Tools/PicoFlasher/releases/tag/3.0).
 2. Extract the archive to a folder.
 
+### Preparing PicoFlasher
+
+1. Hold down the BOOTSEL button on your Raspberry Pi Pico, and while continuing to hold the button, plug it into your computer using a micro USB cable. Keep holding the BOOTSEL button until a drive appears in Windows Explorer. This indicates that the Pico is in bootloader mode and ready for programming.
+2. Copy the PicoFlasher.uf2 file from the folder we previously extracted from the PicoFlasher zip archive and paste it into the root of the PicoFlasher drive.
+
 ## Aurora Dashboard
 
 ## Games
