@@ -164,11 +164,17 @@ Using the diagram below as a reference, connect each coloured wire from your Bre
 
 ## Flashing the NAND
 
-### J-Runner
+### Downloads
+
+#### J-Runner with extras
 
 1. Download J-Runner with extras [here](https://github.com/Octal450/J-Runner-with-Extras/releases/download/V3.3.0-r3/J-Runner-with-Extras.zip).
 2. Extract the archive to a folder.
-3. Launch JRunner.exe
+
+#### PicoFlasher
+
+1. Download PicoFlasher [here](https://github.com/X360Tools/PicoFlasher/releases/tag/3.0).
+2. Extract the archive to a folder.
 
 ## Aurora Dashboard
 
