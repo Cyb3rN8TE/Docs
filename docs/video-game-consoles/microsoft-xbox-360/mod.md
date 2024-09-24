@@ -54,6 +54,7 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 * Solder
 * 30AWG Kynar wire
 * Raspberry Pi Pico
+* Heat Gun
 * Screwdriver set with T8/T10
 * X-Acto Knife
 * Paper Towel
@@ -67,6 +68,26 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 ## Teardown
 
 Tearing down an Xbox 360 Slim can be tricky to explain in writing, so I’ve provided a link to an excellent guide by 7Heavens on the WeMod forum. Their detailed instructions and visuals will help you through the process step by step. Click [here ](https://community.wemod.com/t/how-to-open-a-xbox-360-slim/351)to visit the guide.
+
+<figure><img src="../../../.gitbook/assets/IMG20240801121247.jpg" alt=""><figcaption></figcaption></figure>
+
+## Preparation
+
+### Heatsink and Processor Cleaning
+
+Now that you have fully removed the motherboard and heatsink covering the processor, take the time to clean off the old thermal paste using a paper towel and isopropyl alcohol. Ensure it is thoroughly cleaned, as this will help the new thermal paste bond effectively. This step is crucial for the Xbox 360, as the console tends to run hot.
+
+<figure><img src="../../../.gitbook/assets/IMG_20240103_170945.jpg" alt=""><figcaption></figcaption></figure>
+
+### Wire and Resistor
+
+1. Grab your 10k Ohm 0.5 Watt Metal Film Resistor and trim each leg to about 2-3 cm on each side. This will make it easier to work with during the installation.
+2. Next, take 20 cm of 30AWG Kynar wire and cut it in half. We can always shorten the wires later if needed.
+3. Strip a small section off each end of the Kynar wire, then dip the exposed wire ends in flux.
+4. Solder one 10 cm piece of Kynar wire to one side of the resistor, and then solder the other 10 cm piece of Kynar wire to the other side.
+5. Once you're confident that there are good solder joints holding each piece of wire to the resistor, cover the entire resistor and solder joints with heat shrink tubing to ensure a secure and insulated connection.
+
+<figure><img src="../../../.gitbook/assets/IMG20240801133725.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Aurora Dashboard
 
