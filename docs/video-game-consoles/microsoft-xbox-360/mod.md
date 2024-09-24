@@ -92,7 +92,7 @@ Now that you have fully removed the motherboard and heatsink covering the proces
 
 ### Prepare NAND Solder Points
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Image credit weekendmodder.com</p></figcaption></figure>
+\* **INSERT IMAGE HERE**&#x20;
 
 For each of the solder points on the console motherboard:
 
@@ -138,13 +138,30 @@ SMC\_POST
 2. Apply flux to the point.
 3. Tin the point with solder.
 
-## Soldering
+## Soldering RGH Points
 
 Now it’s time to solder! Refer to the image below for guidance on where to make your solder connections. Ensure you have a steady hand and take your time to achieve clean, secure joints for the best results.
 
 <figure><img src="../../../.gitbook/assets/Xbox_360_Trinity.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/IMG20240801154753.jpg" alt=""><figcaption></figcaption></figure>
+
+## Partial Console Assembly
+
+1. Apply a pea-sized amount of thermal paste to the centre of the processor. This will ensure proper thermal conductivity between the CPU and the heatsink, helping to keep the processor cool during operation.
+
+![](../../../.gitbook/assets/IMG20240801122817.jpg)
+
+2. Reattach the four-pin fan connector and position the fan on top of the processor, ensuring that all four posts fit securely through the holes on the motherboard.
+3. Flip the motherboard over and reattach the X-clamp using the X-clamp removal tool. Ensure that the oval-shaped hole on the X-clamp is oriented towards the front of the console for proper alignment and secure fastening.
+
+## Solder NAND Points
+
+Using the diagram below as a reference, connect each coloured wire from your Breadboard Jumper Ribbon Cables Kit to the appropriate pin on the Raspberry Pi Pico. Then, solder the other end of each wire to the corresponding point on the motherboard. Ensure that each connection is secure and properly aligned.
+
+<figure><img src="../../../.gitbook/assets/TrinityPicoFlasherWiringDiagram.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Aurora Dashboard
 
