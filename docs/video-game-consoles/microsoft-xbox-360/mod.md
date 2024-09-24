@@ -156,13 +156,13 @@ Now it’s time to solder! Refer to the image below for guidance on where to mak
 3. Flip the motherboard over and reattach the X-clamp using the X-clamp removal tool. Ensure that the oval-shaped hole on the X-clamp is oriented towards the front of the console for proper alignment and secure fastening.
 4. Place the motherboard back into the case and reattach the power LED board. Connect the faceplate to the LED board using the ribbon cable, which will allow you to use the power and eject buttons to turn on the console when you reach that step. Ensure all connections are secure for proper functionality.
 
-## Solder NAND Points
+## NAND Preparation
+
+### Solder NAND Points
 
 Using the diagram below as a reference, connect each coloured wire from your Breadboard Jumper Ribbon Cables Kit to the appropriate pin on the Raspberry Pi Pico. Then, solder the other end of each wire to the corresponding point on the motherboard. Ensure that each connection is secure and properly aligned.
 
 <figure><img src="../../../.gitbook/assets/TrinityPicoFlasherWiringDiagram.png" alt=""><figcaption></figcaption></figure>
-
-## Flashing the NAND
 
 ### Downloads
 
@@ -179,7 +179,22 @@ Using the diagram below as a reference, connect each coloured wire from your Bre
 ### Preparing PicoFlasher
 
 1. Hold down the BOOTSEL button on your Raspberry Pi Pico, and while continuing to hold the button, plug it into your computer using a micro USB cable. Keep holding the BOOTSEL button until a drive appears in Windows Explorer. This indicates that the Pico is in bootloader mode and ready for programming.
-2. Copy the PicoFlasher.uf2 file from the folder we previously extracted from the PicoFlasher zip archive and paste it into the root of the PicoFlasher drive.
+2. Copy the PicoFlasher.uf2 file from the folder we previously extracted from the PicoFlasher zip archive and paste it into the root of the PicoFlasher drive. Once copied, the Raspberry Pi Pico will reboot automatically, and the drive will disappear from Windows Explorer.
+3. Unplug the Raspberry Pi Pico and then plug it back in normally (without holding the BOOTSEL button). The Pico is now ready for the next steps in the process.
+4. Plug the power cable into your Xbox 360 console, but **DO NOT TURN IT ON**. This step provides power to the motherboard for the flashing process without fully powering up the system.
+
+## Flashing RGH3 NAND
+
+### NAND Dump
+
+1. Open the JRunner program by launching JRunner.exe.
+2. Click **Read Nand** and wait for the process to complete.
+
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+3. Make sure to select **Glitch2**, **RGH3** and then click **Create XeLL**.
+
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ## Aurora Dashboard
 
