@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This section will guide you through restoring the data on your SD Card and External HDD. Should anything happen to your console, SD Card, or External HDD, this guide will make it simple to restore everything back to the way it was. You’ll learn how to properly recover both storage devices, ensuring your games, saves, and homebrew applications are back up and running with minimal hassle.
+This section will guide you through **restoring** the data on your SD Card and External HDD.&#x20;
+
+Should anything happen to your console, SD Card, or External HDD, this guide will make it simple to restore everything back to the way it was. You’ll learn how to properly recover both storage devices, ensuring your games, saves, and homebrew applications are back up and running with minimal hassle.
 
 We're going to be using Rescuezilla Live OS to get the job done. Rescuezilla allows us to perform **full disk image backups**, which means it captures an exact replica of all the data on your storage devices, ensuring a precise and reliable backup.
 
