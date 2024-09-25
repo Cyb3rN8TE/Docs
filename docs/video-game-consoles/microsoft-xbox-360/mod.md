@@ -59,6 +59,7 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 * Screwdriver set with T8/T10
 * X-Acto Knife
 * Breadboard Jumper Ribbon Cables Kit
+* SATA to USB Converter
 * Paper Towel
 * Computer
 
@@ -324,13 +325,81 @@ Now that we’ve confirmed the console has been successfully RGH3 modded, we can
 
 Setup the following scan paths:
 
-<table><thead><tr><th>Content</th><th width="292">Path</th><th>Scan Depth</th></tr></thead><tbody><tr><td>Xbox 360 Games</td><td>\Xbox360\System\HDD1\Content</td><td>4</td></tr><tr><td>Scripts</td><td>Xbox360\System\HDD1\Apps</td><td>2</td></tr><tr><td>Xbox Games</td><td>box360\System\USB0\Games</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th>Content</th><th width="292">Path</th><th>Scan Depth</th></tr></thead><tbody><tr><td>Xbox 360 Games</td><td>\Xbox360\System\HDD1\Content</td><td>4</td></tr><tr><td>Scripts</td><td>Xbox360\System\HDD1\Apps</td><td>2</td></tr><tr><td>Xbox Games</td><td>box360\System\USB0\</td><td>MAX</td></tr></tbody></table>
+
+### Xbox Compatibility Fix
+
+
 
 ## Games
 
 ### Xbox 360
 
+{% hint style="info" %}
+Xbox 360 game backups must be converted from **.iso** to **GOD** format.
+{% endhint %}
+
+#### Preparation
+
+1. Download [Iso2God](https://github.com/r4dius/Iso2God/releases/download/1.3.7/iso2god-v1.3.7.zip).
+2. Launch Iso2God.
+3. Add your Xbox 360 game backups in .iso format.
+4. Make sure the padding settings match below.
+
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+5. Click convert and wait for the process to complete.
+
+#### Transferring Games
+
+1. Download [FATXplorer](https://api.eaton-works.com/download/FATXplorer/FATXplorer64.zip).
+2. Connect your Xbox 360 Internal HDD to your computer using a SATA to USB converter.
+3. Run FATXplorer and select the **Windows Explorer** option and **Content Partition**.
+4. Copy each game folder to the **0000000000000000** folder on the drive.
+
+{% hint style="info" %}
+Some multi-disc games require specific processes to get them to work. I recommend checking out [this forum post](https://www.se7ensins.com/forums/threads/a-short-guide-for-installing-multi-disc-games-on-a-jtag-rgh-r-jtag.1381808/) and following the instructions specific to the type of multi-disc game you want to install.
+{% endhint %}
+
+#### Title Updates
+
+For each Xbox 360 game on Aurora Dashboard:
+
+1. Select the game and press Y.
+2. Select the title updates tab as seen below:
+
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+3. Press the RB button on your controller, select the latest title update and then press A to download.
+
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+4. Once the title update has been installed, press LB on your controller.
+5. Select the latest title update and press the A button on your controller to enable it.
+
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 ### Xbox
+
+{% hint style="info" %}
+Xbox game backups must be converted from **.iso** to **XBE (folder)** format.
+{% endhint %}
+
+#### Preparation
+
+1. Download [extract-xiso](https://github.com/XboxDev/extract-xiso) and [batch-xiso-extract](https://github.com/IronRingX/batch-xiso-extract).
+2. Create a folder on your computer called **Xbox ISO**.
+3. Copy the **extract-xiso** and **batch-xiso-extract** scripts to the **Xbox ISO** folder.
+4. Copy your Xbox Game Backups in .iso format to the Xbox ISO folder.
+5. Run batch-xiso-extract.bat. Each XISO will be extracted into its own directory.
+
+#### Transferring Games
+
+1. Download [FATXplorer](https://api.eaton-works.com/download/FATXplorer/FATXplorer64.zip).
+2. Connect your 2TB External HDD to your computer using a SATA to USB converter.
+3. Run FATXplorer and select the **Windows Explorer** option and **Content Partition**.
+4. Create a folder on the drive called **Games**.
+5. Copy each game folder to the **Games** folder on the drive.
 
 ## DLC
 
