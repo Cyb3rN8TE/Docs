@@ -20,17 +20,16 @@ You will need:
 * SATA to USB Converter.
 * Internal or External Storage that has enough available space to store the backups.
 
-## Preparation
+## External HDD
+
+### Restore Xbox Games
 
 1. Download [Rescuezilla](https://github.com/rescuezilla/rescuezilla/releases/download/2.5.1/rescuezilla-2.5.1-64bit.noble.iso).
 2. Download [Rufus](https://github.com/pbatard/rufus/releases/download/v4.5/rufus-4.5.exe).
 3. Use Rufus to create a bootable USB using the Rescuezilla ISO.
-
-## External HDD
-
-1. Boot the Rescuezilla OS.
-2. Insert your External HDD.
-3. Select **Restore** and follow the prompts.
+4. Boot the Rescuezilla OS.
+5. Insert your External HDD.
+6. Select **Restore** and follow the prompts.
 
 ## Internal HDD
 
