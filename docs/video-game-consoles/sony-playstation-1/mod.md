@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section will guide you step by step through the process of turning your PlayStation 3 into a modded console. I've written this guide for people who have a basic level of technological understanding. If you're comfortable navigating menus, finding system information, or using Google for smaller details, you should have no trouble following along.
+This section will guide you step by step through the process of turning your PlayStation 2 into a modded console. I've written this guide for people who have a basic level of technological understanding. If you're comfortable navigating menus, finding system information, or using Google for smaller details, you should have no trouble following along.
 
 However, if you're not familiar with basic tech concepts, modding your PlayStation 2 might not be the best choice. If something goes wrong, troubleshooting without this foundational knowledge could be frustrating. Having a basic understanding of how your console works will not only make the process smoother but also help you effectively search for solutions when issues arise. Understanding the fundamentals will set you up for success and ensure you enjoy the modding experience.
 
@@ -12,10 +12,7 @@ This guide is written in a step-by-step format, so make sure to follow each step
 
 ## Goals
 
-* Play Sony PlayStation 3 Game Backups.
-* Play Sony PlayStation 2 Game Backups.
 * Play Sony PlayStation 1 Game Backups.
-* Play Retro Arcade Game Backups.
 
 {% hint style="info" %}
 Backups refer to file-level copies of games that you have lawfully purchased and already own, either digitally or on physical media such as a CD, DVD, floppy disk, cartridge, etc.

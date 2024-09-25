@@ -95,13 +95,13 @@ Now that you have fully removed the motherboard and heatsink covering the proces
 
 ### Prepare NAND Solder Points
 
-\* **INSERT IMAGE HERE**&#x20;
-
 For each of the solder points on the console motherboard:
 
 1. Clean the point with isopropyl alcohol.
 2. Apply flux to the point.
 3. Tin the point with solder.
+
+<figure><img src="../../../.gitbook/assets/Top-NAND-Points.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Prepare RGH Solder Points
 
@@ -488,14 +488,3 @@ Below are some of the key individuals and teams who deserve special recognition 
 |         |         |
 |         |         |
 |         |         |
-
-
-
-
-
-
-
-
-
-
-
