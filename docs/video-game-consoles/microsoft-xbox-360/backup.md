@@ -2,12 +2,14 @@
 
 ## Introduction
 
-This section will guide you through preserving the data on your Xbox 360 Internal HDD and External HDD. Should anything happen to your console, Internal HDD, or External HDD, having backups in place will make it simple to restore everything to the way it was. You’ll learn how to properly backup both storage devices, ensuring you can quickly recover your games, saves, and homebrew applications with minimal hassle.
+This section will guide you through **backing up** the data on your Xbox 360 Internal HDD and External HDD.&#x20;
+
+Should anything happen to your console, Internal HDD, or External HDD, having backups in place will make it simple to restore everything to the way it was. You’ll learn how to properly recover both storage devices, ensuring your games, saves, and homebrew applications are back up and running with minimal hassle.
 
 We're going to be using two programs to get the job done:
 
-* **Rescuezilla Live OS:** Allows us to perform **full disk image backups**, which means it captures an exact replica of all the data on your storage devices, ensuring a precise and reliable backup.
-* **FATXplorer:** Allows us to create a backup of the content partition on the Xbox 360 internal hard drive, which contains all our games, DLC, XBLA titles, saves, and other important data.
+* **Rescuezilla Live OS**: Allows us to restore full disk image backups, ensuring a precise and reliable recovery of all the data on your storage devices.
+* **FATXplorer**: Enables us to restore the content partition on the Xbox 360 internal hard drive, which contains all your games, DLC, XBLA titles, saves, and other important data.
 
 ## Equipment
 
@@ -45,4 +47,5 @@ You will need:
 
 <figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-5. Select the **Content Partition** and choose a destination to save the backup.
+5. Select the **Backup** option.
+6. Select the **Content Partition** and choose a destination to save the backup.
