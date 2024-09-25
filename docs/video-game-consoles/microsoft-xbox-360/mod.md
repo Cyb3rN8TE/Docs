@@ -381,7 +381,14 @@ Xbox 360 game backups must be converted from **.iso** to **GOD** format.
 
 1. Download [FATXplorer](https://api.eaton-works.com/download/FATXplorer/FATXplorer64.zip).
 2. Connect your Xbox 360 Internal HDD to your computer using a SATA to USB converter.
-3. Run FATXplorer and select the **Windows Explorer** option and **Content Partition**.
+3. Run FATXplorer and select the **Devices** tab and click **Integrate into Windows**.
+
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+4. Select the **Content Partition** and click **Done**.
+
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
 4. Copy each game folder to the **0000000000000000** folder on the drive.
 
 {% hint style="info" %}
@@ -441,9 +448,16 @@ Please be advised that the DLC (Downloadable Content) must match the region of y
 #### Installing DLC and XBLA
 
 1. Connect your Xbox 360 Internal HDD to your computer using SATA to USB converter.
-2. Run FATXplorer and select the **Windows Explorer** option and **Content Partition**.
-3. Download [Xbox 360 Content Manager](https://digiex.net/threads/xbox-360-content-manager-v3-0-download-jtag-rgh-content.10225/).
-4. Use Xbox 360 Content Manger to transfer your DLC and XBLA to the Xbox 360 Internal HDD via FTP.
+2. Run FATXplorer and select the **Devices** tab and click **Integrate into Windows**.
+
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+3. Select the **Content Partition** and click **Done**.
+
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+4. Download [Xbox 360 Content Manager](https://digiex.net/threads/xbox-360-content-manager-v3-0-download-jtag-rgh-content.10225/).
+5. Use Xbox 360 Content Manger to transfer your DLC and XBLA to the Xbox 360 Internal HDD via FTP.
 
 #### Unlocking DLC and XBLA
 
