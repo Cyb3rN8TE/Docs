@@ -348,13 +348,15 @@ Setup the following scan paths:
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 13. Once the process has completed successfully, you can press the B button to exit.
-14. Reboot your console.
-15. In the Aurora Dashboard, press the back button on your controller.
-16. Open File Manager.
-17. Locate the following folder on your USB drive **hacked\_xgamechat\_fix** -> **HUD\_xgamechat**.
-18. Copy the **Compatibility** folder and paste it in **HddX**.
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+13. Reboot your console.
+14. In the Aurora Dashboard, press the back button on your controller.
+15. Open File Manager.
+16. Locate the following folder on your USB drive **hacked\_xgamechat\_fix** -> **HUD\_xgamechat**.
+17. Copy the **Compatibility** folder and paste it in **HddX**.
+18. Reboot your console.
 
 ## Games
 
@@ -404,6 +406,8 @@ For each Xbox 360 game on Aurora Dashboard:
 
 <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
+6. Repeat this process for every game in your collection.
+
 ### Xbox
 
 {% hint style="info" %}
@@ -430,7 +434,32 @@ Xbox game backups must be converted from **.iso** to **XBE (folder)** format.
 
 ### Xbox 360
 
+{% hint style="info" %}
+Please be advised that the DLC (Downloadable Content) must match the region of your game backup in order to function properly. If the regions do not match, the DLC may not be recognised or compatible with your game. Ensure that both the game and DLC are from the same region to avoid any issues.
+{% endhint %}
 
+#### Installing DLC
+
+1. Connect your Xbox 360 Internal HDD to your computer using SATA to USB converter.
+2. Run FATXplorer and select the **Windows Explorer** option and **Content Partition**.
+3. Download [Xbox 360 Content Manager](https://digiex.net/threads/xbox-360-content-manager-v3-0-download-jtag-rgh-content.10225/).
+4. Use Xbox 360 Content Manger to transfer your DLC to the Xbox 360 Internal HDD via FTP.
+
+#### Unlocking DLC
+
+1. Download [XM360](https://consolemods.org/wiki/File:XM360.7z).
+2. Extract the archive to a folder.
+3. Insert a blank USB drive into your console.
+4. Use the Xbox 360 System Menu to format the USB drive.
+5. Insert your USB drive into your computer.
+6. Copy the XM360 folder to the root of your USB drive.
+7. Insert your USB drive into your console.
+8. Using the Aurora file browser, copy the XM360 folder to HDD1 -> Apps.
+9. Exit back to the Aurora dashboard.
+10. Launch XM360 from the Aurora dashboard.
+11. Once XM360 has loaded, select **Scan All** and press the **A** button on your controller.
+12. Once the scan has finished, you should see all your DLC and XBL content in the list.
+13. Select **Unlock XBLA** and press the **A** button on your controller.
 
 ## Credits
 
