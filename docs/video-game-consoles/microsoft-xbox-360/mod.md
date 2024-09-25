@@ -430,7 +430,7 @@ Xbox game backups must be converted from **.iso** to **XBE (folder)** format.
 4. Create a folder on the drive called **Games**.
 5. Copy each game folder to the **Games** folder on the drive.
 
-## DLC
+## DLC and XBLA
 
 ### Xbox 360
 
@@ -438,14 +438,14 @@ Xbox game backups must be converted from **.iso** to **XBE (folder)** format.
 Please be advised that the DLC (Downloadable Content) must match the region of your game backup in order to function properly. If the regions do not match, the DLC may not be recognised or compatible with your game. Ensure that both the game and DLC are from the same region to avoid any issues.
 {% endhint %}
 
-#### Installing DLC
+#### Installing DLC and XBLA
 
 1. Connect your Xbox 360 Internal HDD to your computer using SATA to USB converter.
 2. Run FATXplorer and select the **Windows Explorer** option and **Content Partition**.
 3. Download [Xbox 360 Content Manager](https://digiex.net/threads/xbox-360-content-manager-v3-0-download-jtag-rgh-content.10225/).
-4. Use Xbox 360 Content Manger to transfer your DLC to the Xbox 360 Internal HDD via FTP.
+4. Use Xbox 360 Content Manger to transfer your DLC and XBLA to the Xbox 360 Internal HDD via FTP.
 
-#### Unlocking DLC
+#### Unlocking DLC and XBLA
 
 1. Download [XM360](https://consolemods.org/wiki/File:XM360.7z).
 2. Extract the archive to a folder.
@@ -458,8 +458,12 @@ Please be advised that the DLC (Downloadable Content) must match the region of y
 9. Exit back to the Aurora dashboard.
 10. Launch XM360 from the Aurora dashboard.
 11. Once XM360 has loaded, select **Scan All** and press the **A** button on your controller.
-12. Once the scan has finished, you should see all your DLC and XBL content in the list.
+12. Once the scan has finished, you should see all your XBLA content in the list.
 13. Select **Unlock XBLA** and press the **A** button on your controller.
+14. Select **Show DLC** and press the **A** button on your controller.
+15. Once the scan has finished, you should see all your DLC content in the list.
+16. Select **Unlock DLC** and press the **A** button on your controller.
+17. Exit XM360.
 
 ## Credits
 
