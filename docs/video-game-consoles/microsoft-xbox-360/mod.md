@@ -329,7 +329,32 @@ Setup the following scan paths:
 
 ### Xbox Compatibility Fix
 
+1. Download [HDD Compatibility Partition Fixer](https://consolemods.org/wiki/File:Hdd\_compat\_partition\_fixer\_v1.zip).
+2. Extract the archive to a folder.
+3. Download the [Hacked Compatibility Files](https://consolemods.org/wiki/File:Xb1\_5832\_apr\_2018-hacked\_xgamechat\_fix.zip).
+4. Extract the archive to a folder.
+5. Insert a blank USB drive and make sure that it's FAT32 format.
+6. Copy the HDD Compatibility Partition Fixer folder and Hacked Compatibility Files folder to the root of your USB drive.
+7. Insert the USB drive into your Xbox 360 console.
+8. On the Aurora Dashboard, press the Xbox button on your controller.
+9. Open the file browser.
+10. Open the **hdd\_compat\_partition\_fixer** folder.
+11. Launch default.xex.
 
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+12. Press the A button on your controller to continue.
+
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+13. Once the process has completed successfully, you can press the B button to exit.
+14. Reboot your console.
+15. In the Aurora Dashboard, press the back button on your controller.
+16. Open File Manager.
+17. Locate the following folder on your USB drive **hacked\_xgamechat\_fix** -> **HUD\_xgamechat**.
+18. Copy the **Compatibility** folder and paste it in **HddX**.
+
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ## Games
 
