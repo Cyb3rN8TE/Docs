@@ -287,6 +287,8 @@ Now that we’ve confirmed the console has been successfully RGH3 modded, we can
 
 ### DashLaunch
 
+#### Set Aurora Dashboard to auto boot
+
 1. Disconnect your USB drive from the console.
 2. Open the **Apps** folder and then **DashLaunch** folder.
 3. Launch **default.xex**.
@@ -297,6 +299,32 @@ Now that we’ve confirmed the console has been successfully RGH3 modded, we can
 8. Select **Aurora.xex** and press the **A** button.
 9. Press the **RB** button, highlight **HDD** and press the **X** button.
 10. Press the **B** button to exit DashLaunch.
+
+### Aurora Dashboard
+
+#### Settings
+
+1. Press the **Start** button on your controller to open settings.
+2. Go to **Content** and enable **AutoScan** next to **Title Updates**.
+3. Exit the settings menu.
+
+#### Scripts
+
+1. Press the **Back** button on your controller.
+2. Navigate to **Scripts**.
+3. Open **Aurora Repo Browser**.
+4. Open Utility Scripts and press the **A** button on **Xbox 360 Homebrew Store**.
+5. Open Utility Scripts and press the **A** button on **Xefu Spoofer**.
+6. Exit the settings menu.
+
+#### Content Scanning
+
+1. Press the **Start** button on your controller to open settings.
+2. Go to **Content.**
+
+Setup the following scan paths:
+
+<table><thead><tr><th>Content</th><th width="292">Path</th><th>Scan Depth</th></tr></thead><tbody><tr><td>Xbox 360 Games</td><td>\Xbox360\System\HDD1\Content</td><td>4</td></tr><tr><td>Scripts</td><td>Xbox360\System\HDD1\Apps</td><td>2</td></tr><tr><td>Xbox Games</td><td>box360\System\USB0\Games</td><td>6</td></tr></tbody></table>
 
 ## Games
 
