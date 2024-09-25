@@ -40,6 +40,7 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 {% endhint %}
 
 * Xbox 360 Hard Drive Disk Cover Replacement
+* USB Flash Drive
 * Seagate BarraCuda 2.5" Notebook HDD - 2TB 128MB
 * 10k Ohm 0.5 Watt Metal Film Resistor
 * X-Clamp Removal Tool
@@ -65,6 +66,7 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 
 1. Update your console to the latest version.
 2. Transfer your main profile to a USB drive and keep it safe. This guide won’t cover going online, and even if it did, I don’t recommend using your main profile on the console, as it may risk getting you banned.
+3. Format both your **Seagate 2TB Expansion Portable HDD** and **Seagate BarraCuda 2.5" Notebook HDD - 2TB 128MB** using the [**Xbox 360 System Menu**](https://support.xbox.com/en-AU/help/xbox-360/accessories/using-usb-flash-drive).
 
 ## Teardown
 
@@ -231,13 +233,70 @@ Navigate to the directory shown in your J-Runner where all the NAND dump files a
 
 ## Cleanup
 
-At this point your console has been successfully RGH3 modded. Follow the remaining cleanup steps before moving on to the fun stuff:
+Now that we’ve confirmed the console has been successfully RGH3 modded, we can proceed with the cleanup stage. Once that’s complete, we’ll move on to adding homebrew applications and games.
 
 1. Power off the console.
 2. Desolder each of the Breadboard Jumper wires from the NAND points on the top of the console's motherboard. Take your time to ensure that you do not damage any of the surrounding pads during the desoldering process. Once all wires are removed, inspect the area for any solder bridges or debris before moving on.
-3. Reassemble the console completely.
+3. Reassemble the console completely. I’ve provided a link to an excellent guide by 7Heavens on the WeMod forum. Their detailed instructions and visuals will help you through the process step by step. Click [here ](https://community.wemod.com/t/how-to-open-a-xbox-360-slim/351)to visit the guide.
 
-## Aurora Dashboard
+## Homebrew
+
+### Preparation
+
+1. Power on your console and insert a blank USB drive.
+2. Using the Xbox 360 system menu go ahead and [format your USB drive](https://support.xbox.com/en-AU/help/xbox-360/accessories/using-usb-flash-drive) which we will use to transfer files to the console.
+3. Disconnect the USB drive from the console and insert into your computer.
+4. Download [XEXMenu ](https://download.digiex.net/Consoles/Xbox360/Jtag/xexmenu\_v1.1.rar)and extract the archive to a folder.
+5. Download [DashLaunch ](https://consolemods.org/wiki/File:Dash\_launch\_v3.21.zip)and extract the archive to a folder.
+6. Download [Aurora ](http://phoenix.xboxunity.net/downloads/Aurora%200.7b.2%20-%20Release%20Package.rar)and extract the archive to a folder.
+7. Rename the extracted Aurora folder to 'Aurora'.
+8. Copy the **Aurora** folder to the root of your USB drive.
+9. Open the extracted DashLaunch folder and rename the folder called 'Installer' to 'DashLaunch'.
+10. Copy the **DashLaunch** and **XellLaunch** folders to the root of your USB drive.
+11. Open the extracted XEXMenu folder and extract the two archives 'XexMenu-LIVE.rar' and 'XexMenu-XEX.rar' to seperate folders.
+12. Copy the **XexMenu-XEX** folder to the root of your USB drive.
+13. Make sure that in your Windows folder view settings, the **Show hidden items** option is ticked. This will allow you to see the hidden **Content** folder on the root of your USB drive. We will be adding files to this folder in the next steps, so ensure it’s visible.
+14. Create a new folder inside the **Content** folder called **0000000000000000**.
+15. Open the extracted **XexMenu-LIVE** folder from before and copy the **CODE9999** folder to the **0000000000000000** folder.
+16. Disconnect your USB drive from your computer.
+
+### Transferring files to console
+
+1. Power on your console and insert the USB drive.
+2. Using the Xbox 360 System Menu, locate the **Demos** folder on your USB drive and **copy** the **XeXMenu Game Demo** to your **internal HDD**.
+3. Exit back to the dashboard and open **Games ->** **My Games**.
+4. Launch **XeXMenu**.
+5. Press the **RB** button on your controller.
+6. Make sure that **Aurora** is higlighted and press **Y** button and then **COPY**.
+7. Press the **right** button on your **D-pad** until **HDD1** is showing on the right hand side of the screen.&#x20;
+8. Press the **Y** button on your controller and select **Create**.
+9. Name the folder **Apps** and press **Done**.
+10. Open the **Apps** folder, press the **Y** button and then **Paste**.
+11. Press the **left** button on your **D-pad** until **USB0** is showing on the right hand side of the screen.
+12. Make sure that **DashLaunch** is highlighted and press **Y** button and then **COPY.**
+13. Press the **right** button on your **D-pad** until **HDD1** is showing on the right hand side of the screen.
+14. Open the **Apps** folder, press the **Y** button and then **Paste**.
+15. Press the **left** button on your **D-pad** until **USB0** is showing on the right hand side of the screen.
+16. Make sure that **XellLaunch** is highlighted and press **Y** button and then **COPY.**
+17. Press the **right** button on your **D-pad** until **HDD1** is showing on the right hand side of the screen.
+18. Open the **Apps** folder, press the **Y** button and then **Paste**.
+19. Press the **left** button on your **D-pad** until **USB0** is showing on the right hand side of the screen.
+20. Make sure that **XexMenu** is highlighted and press **Y** button and then **COPY.**
+21. Press the **right** button on your **D-pad** until **HDD1** is showing on the right hand side of the screen.
+22. Open the **Apps** folder, press the **Y** button and then **Paste**.
+
+### DashLaunch
+
+1. Disconnect your USB drive from the console.
+2. Open the **Apps** folder and then **DashLaunch** folder.
+3. Launch **default.xex**.
+4. Navigate to **Paths** and select **Default**.
+5. Press the **Y** button.
+6. With **Default** still selected, press the **A** button.
+7. Navigate to **HDD: -> Apps -> Aurora**.
+8. Select **Aurora.xex** and press the **A** button.
+9. Press the **RB** button, highlight **HDD** and press the **X** button.
+10. Press the **B** button to exit DashLaunch.
 
 ## Games
 
