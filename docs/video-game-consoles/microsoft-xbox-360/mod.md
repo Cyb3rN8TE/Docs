@@ -72,12 +72,12 @@ You will need:
 ## Prerequisites
 
 1. Update your console to the latest version.
-2. Transfer your main profile to a USB drive and keep it safe. This guide won’t cover going online, and even if it did, I don’t recommend using your main profile on the console, as it may risk getting you banned.
+2. [Transfer your main profile to a USB drive](https://support.xbox.com/en-AU/help/xbox-360/my-account/manage-gamertag-and-profile/move-your-profile-to-another-console-using-a-flash-drive-or-memory-unit) and keep it safe. This guide won’t cover going online, and even if it did, I don’t recommend using your main profile on the console, as it may risk getting you banned.
 3. Format both your **Seagate 2TB Expansion Portable HDD** and **Seagate BarraCuda 2.5" Notebook HDD - 2TB 128MB** using the [**Xbox 360 System Menu**](https://support.xbox.com/en-AU/help/xbox-360/accessories/using-usb-flash-drive).
 
 ## Teardown
 
-Tearing down an Xbox 360 Slim can be tricky to explain in writing, so I’ve provided a link to an excellent guide by 7Heavens on the WeMod forum. Their detailed instructions and visuals will help you through the process step by step. Click [here ](https://community.wemod.com/t/how-to-open-a-xbox-360-slim/351)to visit the guide.
+Tearing down an Xbox 360 Slim can be tricky to explain, so I’ve provided a link to an excellent guide by 7Heavens on the WeMod forum. Their detailed instructions and visuals will help you through the process step by step. Click [here ](https://community.wemod.com/t/how-to-open-a-xbox-360-slim/351)to visit the guide.
 
 <figure><img src="../../../.gitbook/assets/IMG20240801121247.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -96,6 +96,7 @@ Now that you have fully removed the motherboard and heatsink covering the proces
 3. Strip a small section off each end of the Kynar wire, then dip the exposed wire ends in flux.
 4. Solder one 10 cm piece of Kynar wire to one side of the resistor, and then solder the other 10 cm piece of Kynar wire to the other side.
 5. Once you're confident that there are good solder joints holding each piece of wire to the resistor, cover the entire resistor and solder joints with heat shrink tubing to ensure a secure and insulated connection.
+6. Use a heat gun to shrink the tube until it gently grips the resistor and wires.
 
 <figure><img src="../../../.gitbook/assets/IMG20240801133725.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -126,6 +127,10 @@ At this stage, we want to start preparing our solder points for the RGH 3 mod. B
 1. Clean the point with isopropyl alcohol.&#x20;
 2. Using an X-Acto Knife, carefully expose the VIA.
 
+{% hint style="danger" %}
+Be extremely cautious not to cut the trace directly below the via. Damaging this trace will render your console inoperable, and you'll need to perform a trace repair, which requires advanced skills and is beyond the scope of this guide.
+{% endhint %}
+
 <div align="left">
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
@@ -150,6 +155,9 @@ SMC\_POST
 ## Soldering RGH Points
 
 Now it’s time to solder! Refer to the image below for guidance on where to make your solder connections. Ensure you have a steady hand and take your time to achieve clean, secure joints for the best results.
+
+1. Join POST and SMC\_POST using a short length of wire, see images below for reference before you begin soldering.
+2. Join PLL\_BYPASS and SMC\_PLL using the long length of wire with the resistor, see images below for reference before you begin soldering.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Xbox_360_Trinity.png" alt=""><figcaption></figcaption></figure>
 

@@ -15,3 +15,5 @@ You will need:
 
 ## Saves Memory Card
 
+1.
+
