@@ -156,16 +156,35 @@ PlayStation 1 game backups must be in **bin/cue** format.
 
 ### Preparation
 
-1. Download [Iso2God](https://github.com/r4dius/Iso2God/releases/download/1.3.7/iso2god-v1.3.7.zip).
-2. Launch Iso2God.
-3. Add your Xbox 360 game backups in .iso format.
-4. Make sure the padding settings match below.
+1. Download [ImgBurn](https://download.imgburn.com/SetupImgBurn\_2.5.8.0.exe).
+2. Run the installer.
 
 ### Burning Game Backup Discs
 
+1. Plug in your External DVD/CD Burner to a USB port on your computer.
+2. Open your game folder that you wish to burn to disc.
+3. **Right click** the **.cue** file and open with ImgBurn.
+4. Make sure the **Write Speed** is set to **MAX**.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+4. Make sure that **Verify** is ticked and then click the folder to disc image (pictured below) to start the process.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+5. Wait for the burn and verification process to complete.
+
 ## Credits
 
-Below are some of the key individuals and teams who deserve special recognition for their efforts in making tools, mods, and resources available to the Xbox 360 community.
+Below are some of the key individuals and teams who deserve special recognition for their efforts in making tools, mods, and resources available to the PlayStation 1 community.
 
 | Product | Creator |
 | ------- | ------- |

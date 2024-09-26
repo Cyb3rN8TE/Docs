@@ -91,7 +91,7 @@ Xbox 360 game backups must be converted from **.iso** to **GOD** format.
 
 ## Credits
 
-Below are some of the key individuals and teams who deserve special recognition for their efforts in making tools, mods, and resources available to the Xbox 360 community.
+Below are some of the key individuals and teams who deserve special recognition for their efforts in making tools, mods, and resources available to the PlayStation 2 community.
 
 | Product | Creator |
 | ------- | ------- |
