@@ -10,6 +10,10 @@ However, if you don’t have a solid grasp of basic tech concepts, modding your 
 This guide is written in a step-by-step format, so make sure to follow each step carefully and in order.
 {% endhint %}
 
+{% hint style="warning" %}
+I don't recommend performing mods on your main console, as several steps in the guide could overwrite existing data or reset your settings. I only suggest using your main console if you're 100% confident that everything has been properly backed up. There are plenty of consoles available on the used market, such as on Facebook Marketplace or eBay, so I recommend picking up a cheap console to mod while keeping your main console stock with all your original saves, settings, etc., intact.
+{% endhint %}
+
 ## Goals
 
 * Play Nintendo Wii and Nintendo GameCube backups from an external HDD and/or SD Card.
@@ -25,11 +29,18 @@ It is both illegal and unethical to pirate or obtain games that you have not pur
 By following this guide, you assume full responsibility for your actions. I will not be held liable for any legal issues or consequences that may arise should you choose to engage in piracy or any other illegal activity. Always respect copyright laws and the intellectual property of game developers.
 {% endhint %}
 
+## Console
+
+Nintendo Wii
+
+{% hint style="info" %}
+Compatible with all Nintendo Wii consoles running System Menu version 4.3
+{% endhint %}
+
 ## Equipment
 
 You will need:
 
-* Nintendo Wii.
 * 2TB External Hard Drive (preferably with external power).
 * SanDisk Ultra 256GB SDHC SDXC UHS-I Memory Card.
 
@@ -521,14 +532,3 @@ Below are some of the key individuals and teams who deserve special recognition 
 |         |         |
 |         |         |
 |         |         |
-
-
-
-
-
-
-
-
-
-
-

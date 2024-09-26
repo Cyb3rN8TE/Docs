@@ -10,6 +10,10 @@ However, if you're not familiar with basic tech concepts, modding your Xbox 360 
 This guide is written in a step-by-step format, so make sure to follow each step carefully and in order.
 {% endhint %}
 
+{% hint style="warning" %}
+I don't recommend performing mods on your main console, as several steps in the guide could overwrite existing data or reset your settings. I only suggest using your main console if you're 100% confident that everything has been properly backed up. There are plenty of consoles available on the used market, such as on Facebook Marketplace or eBay, so I recommend picking up a cheap console to mod while keeping your main console stock with all your original saves, settings, etc., intact.
+{% endhint %}
+
 ## Goals
 
 * Play Microsoft Xbox 360 backups from an external HDD and/or internal HDD.
@@ -25,11 +29,9 @@ It is both illegal and unethical to pirate or obtain games that you have not pur
 By following this guide, you assume full responsibility for your actions. I will not be held liable for any legal issues or consequences that may arise should you choose to engage in piracy or any other illegal activity. Always respect copyright laws and the intellectual property of game developers.
 {% endhint %}
 
-## Equipment
+## Console
 
-You will need:
-
-* Microsoft Xbox 360 Slim (Trinity)
+Microsoft Xbox 360 Slim (Trinity)
 
 {% hint style="info" %}
 This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use the image below** to compare the power supply rating and **manufacture date** of your console. If the power rating matches **12V - 10.83A, 135 watts** and the manufacture date falls between **mid-2010 and early 2011**, you have a **Trinity Xbox 360 Slim**.
@@ -39,8 +41,12 @@ This guide is intended exclusively for the Trinity Xbox 360 Slim consoles. **Use
 ![](../../../.gitbook/assets/Untitled-2.jpg)
 {% endhint %}
 
+## Equipment
+
+You will need:
+
 * Xbox 360 Hard Drive Disk Cover Replacement
-* USB Flash Drive
+* USB flash drive formatted to FAT32.
 * Seagate BarraCuda 2.5" Notebook HDD - 2TB 128MB
 * 10k Ohm 0.5 Watt Metal Film Resistor
 * X-Clamp Removal Tool

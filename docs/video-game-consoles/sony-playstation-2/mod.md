@@ -10,6 +10,10 @@ However, if you're not familiar with basic tech concepts, modding your PlayStati
 This guide is written in a step-by-step format, so make sure to follow each step carefully and in order.
 {% endhint %}
 
+{% hint style="warning" %}
+I don't recommend performing mods on your main console, as several steps in the guide could overwrite existing data or reset your settings. I only suggest using your main console if you're 100% confident that everything has been properly backed up. There are plenty of consoles available on the used market, such as on Facebook Marketplace or eBay, so I recommend picking up a cheap console to mod while keeping your main console stock with all your original saves, settings, etc., intact.
+{% endhint %}
+
 ## Goals
 
 * Play Sony PlayStation 2 Game Backups.

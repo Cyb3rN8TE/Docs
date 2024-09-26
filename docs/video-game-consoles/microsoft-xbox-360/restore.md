@@ -51,7 +51,7 @@ You will need:
 5. Select the **Restore** option.
 6. Select the **Content Partition** and choose your backup to restore.
 
-### Restore Aurora Dashboard Settings
+### Restore Aurora Cache
 
 We need to run a special script for all of the games to show up in Aurora again without having to rescan the library and reselect the latest title updates for each game. This script will ensure that your game list, along with the necessary title updates, is restored correctly, saving time and effort during the recovery process.
 
