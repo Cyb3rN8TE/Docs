@@ -15,5 +15,7 @@ You will need:
 
 ## Saves Memory Card
 
-1.
+1. Power on your PlayStation 2 console.
+2. Launch Memory Card Annihilator.
+3. Backup.
 
